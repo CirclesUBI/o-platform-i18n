@@ -981,5 +981,7 @@
     "shared.userActions.sendMoney": "Geld Senden",
     "shared.userActions.trust": "Vertrauen",
     "shared.userActions.untrust": "Vertrauen aufheben",
-    "test.test": "test"
+    "test.test": "test",
+    "dapps.o-marketlisting.pages.mystore.select-category": "Kategorieauswahl",
+    "common.close": "Schließen"
 }
