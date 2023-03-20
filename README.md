@@ -1,1 +1,1 @@
-# o-platform-i18n-files
+# o-platform-i18n
