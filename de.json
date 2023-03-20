@@ -372,7 +372,7 @@
     "dapps.o-homepage.components.survey.informedConsent.firstCheckbox": "I understand that Circles is conduction a research project.",
     "dapps.o-homepage.components.survey.informedConsent.fourthCheckbox": "I understand that Circles points cannot be exchanged for Rupiah or any other currency.",
     "dapps.o-homepage.components.survey.informedConsent.info": "You haven't ticked all the boxes so you cannot use the Circles app.",
-    "dapps.o-homepage.components.survey.informedConsent.secondCheckbox": "I agree to participate in this Circles research project.",
+    "dapps.o-homepage.components.survey.informedConsent.secondCheckbox": "Ich stimme zu am Circles-Forschungsprojekt teilzunehmen.",
     "dapps.o-homepage.components.survey.informedConsent.sixthCheckbox": "I understand that I can only receive circles points from someone that is trusted by me or my circles friends",
     "dapps.o-homepage.components.survey.informedConsent.thirdCheckbox": "I understand that when the Circles research project end I may not be able to use Circles points that remain in my Circles wallet.",
     "dapps.o-homepage.components.survey.informedConsent.title.bottom": "If you have any questions, please reach out to a local circles representative.",
@@ -386,7 +386,7 @@
     "dapps.o-homepage.components.survey.title.top": "Welcome To",
     "dapps.o-homepage.components.survey.userDataCollection.bornOn": "I was born on (dd/mm/yyyy):",
     "dapps.o-homepage.components.survey.userDataCollection.gender": "My gender is:",
-    "dapps.o-homepage.components.survey.userDataCollection.info": "My business offers:",
+    "dapps.o-homepage.components.survey.userDataCollection.info": "Meine Angebote:",
     "dapps.o-homepage.components.survey.userDataCollection.myBusinessOffers": "My business offers:",
     "dapps.o-homepage.components.survey.userDataCollection.scanInvite": "Scan Invite QR Code",
     "dapps.o-homepage.components.survey.userDataCollection.subtitle": "Please tell us a bit more about you, and how you intend to use Circles.",
@@ -980,5 +980,6 @@
     "shared.userActions.errors.couldNotLoadYourProfile": "Dein Profil konnte nicht geladen werden",
     "shared.userActions.sendMoney": "Geld Senden",
     "shared.userActions.trust": "Vertrauen",
-    "shared.userActions.untrust": "Vertrauen aufheben"
+    "shared.userActions.untrust": "Vertrauen aufheben",
+    "test.test": "test"
 }
