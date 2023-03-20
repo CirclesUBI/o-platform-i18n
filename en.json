@@ -982,5 +982,6 @@
     "shared.userActions.trust": "Trust",
     "shared.userActions.untrust": "Untrust",
     "test.test": "test",
-    "dapps.o-marketlisting.pages.mystore.select-category": "Select Category"
+    "dapps.o-marketlisting.pages.mystore.select-category": "Select Category",
+    "common.close": "Close"
 }
