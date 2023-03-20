@@ -367,7 +367,7 @@
     "dapps.o-homepage.components.survey.button.scanInviteNow": "Scan Invite Now",
     "dapps.o-homepage.components.survey.button.signUpNow": "Sign up Now",
     "dapps.o-homepage.components.survey.circleIs": "Circles is a free mobile application",
-    "dapps.o-homepage.components.survey.eachCircle": "Each Circles user receives 24 Circles points per day. These points can be transferred to other Circles users in exchange for products and services.",
+    "dapps.o-homepage.components.survey.eachCircle": "Each Circles user receives 24 Circles points per day.<br/>These points can be transferred to other Circles users in exchange for products and services.",
     "dapps.o-homepage.components.survey.informedConsent.fifthCheckbox": "I understand that Circles project will be collecting information I provide in this app as a means of better understanding how Circles can work in my area.",
     "dapps.o-homepage.components.survey.informedConsent.firstCheckbox": "I understand that Circles is conduction a research project.",
     "dapps.o-homepage.components.survey.informedConsent.fourthCheckbox": "I understand that Circles points cannot be exchanged for Rupiah or any other currency.",
