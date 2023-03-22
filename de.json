@@ -984,5 +984,6 @@
     "test.test": "test",
     "dapps.o-marketlisting.pages.mystore.select-category": "Kategorieauswahl",
     "common.close": "Schließen",
-    "common.save": "Save"
+    "common.save": "Save",
+    "dapps.common.googlemaps.viewonGoogleMaps": "Auf Google Maps ansehen"
 }
