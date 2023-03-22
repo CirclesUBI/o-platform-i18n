@@ -920,7 +920,7 @@
     "shared.molecules.filterList.logout": "Keluar",
     "shared.molecules.lists.eventList.loading": "Memuat...",
     "shared.molecules.lists.list.loading": "Memuat...",
-    "shared.molecules.nextNav.components.loginPill.signInNow": "MASUK SEKARANG",
+    "shared.molecules.nextNav.components.loginPill.signInNow": "MASUK",
     "shared.molecules.notificationViewer.molecules.genericEventCard.subTitle": "...tapi lihat sisi baiknya: kita semua sehat :\\)",
     "shared.molecules.notificationViewer.molecules.genericEventCard.title": "Kesalahan: Tidak dapat menemukan tampilan untuk jenis peristiwa '{eventType}'.",
     "shared.molecules.notificationViewer.molecules.notificationProfile.passion": "Kegemaran",
