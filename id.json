@@ -981,5 +981,6 @@
     "shared.userActions.sendMoney": "Kirim Poin",
     "shared.userActions.trust": "Memercayai",
     "shared.userActions.untrust": "Tidak memercayai",
-    "dapps.o-marketlisting.pages.mystore.select-category": "Pilih Kategori"
+    "dapps.o-marketlisting.pages.mystore.select-category": "Pilih Kategori",
+    "dapps.common.googlemaps.viewonGoogleMaps": "View on Google Maps"
 }
