@@ -95,7 +95,7 @@
     "dapps.o-banking.processes.showAssetDetail.success.return": "yeah!",
     "dapps.o-banking.processes.showProfile.success.return": "Success!",
     "dapps.o-banking.processes.showTransaction.success.return": "yeah!",
-    "dapps.o-banking.processes.transfer.checkAmount.contextMessages": "The chosen amount exceeds the maximum transferable amount of \\({formattedMax}\\).",
+    "dapps.o-banking.processes.transfer.checkAmount.contextMessages": "The chosen amount exceeds the maximum transferable amount of {formattedMax}.",
     "dapps.o-banking.processes.transfer.editorContent.confirm.submitButtonText": "Send Money",
     "dapps.o-banking.processes.transfer.editorContent.confirm.title": "You are about to transfer",
     "dapps.o-banking.processes.transfer.editorContent.currency.submitButtonText": "Submit",
