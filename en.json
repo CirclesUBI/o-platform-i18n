@@ -1010,5 +1010,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.wednesday": "Wednesday",
     "dapps.o-marketlisting.pages.marketListingDetail.thursday": "Thursday",
     "dapps.o-marketlisting.pages.marketListingDetail.friday": "Friday",
-    "dapps.o-marketlisting.pages.marketListingDetail.saturday": "Saturday"
+    "dapps.o-marketlisting.pages.marketListingDetail.saturday": "Saturday",
+    "dapps.o-marketlisting.pages.marketListingDetail.openingHours": "Opening Hours"
 }
