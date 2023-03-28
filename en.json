@@ -990,5 +990,6 @@
     "common.circlesLand": "Circles Land",
     "dapps.o-banking.atoms.transferConfirmation.to": "to",
     "dapps.o-banking.molecules.trustChangeConfirmation.youTrust": "You trust",
-    "dapps.o-banking.molecules.trustChangeConfirmation.now": "now"
+    "dapps.o-banking.molecules.trustChangeConfirmation.now": "now",
+    "dapps.o-banking.molecules.trustChangeConfirmation.youRemovedTrust": "You removed your trust to"
 }
