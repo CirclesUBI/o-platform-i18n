@@ -987,5 +987,6 @@
     "common.save": "Save",
     "dapps.common.googlemaps.viewonGoogleMaps": "View on Google Maps",
     "dapps.o-banking.atoms.bankingHeader.balance": "Balance",
-    "common.circlesLand": "Circles Land"
+    "common.circlesLand": "Circles Land",
+    "dapps.o-banking.atoms.transferConfirmation.to": "to"
 }
