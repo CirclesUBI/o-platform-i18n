@@ -1003,5 +1003,6 @@
     "dapps.o-coop.processes.addOwner.ownerAdded": "A new owner was successfully added.",
     "dapps.o-marketlisting.molecules.marketDropdown.eat": "Eat an apple a day",
     "dapps.o-marketlisting.molecules.marketDropdown.dropdown": "Dropdown",
-    "dapps.o-passport.molecules.openingHoursDayEditor.endsBeforeItStarts": "The time-window ends before it starts"
+    "dapps.o-passport.molecules.openingHoursDayEditor.endsBeforeItStarts": "The time-window ends before it starts",
+    "dapps.o-marketlisting.pages.marketListingDetail.sunday": "Sunday"
 }
