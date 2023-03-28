@@ -1000,5 +1000,6 @@
     "dapps.o-contacts.pages.scanToTrust.alreadyTrusting": "You are already trusting this user.",
     "dapps.o-contacts.pages.scanToTrust.cantTrustYourself": "You can't trust yourself, or do you? ;)",
     "dapps.o-contacts.pages.scanToTrust.scanProfileQR": "Scan Profile QR Code to Instant-Trust",
-    "dapps.o-coop.processes.addOwner.ownerAdded": "A new owner was successfully added."
+    "dapps.o-coop.processes.addOwner.ownerAdded": "A new owner was successfully added.",
+    "dapps.o-marketlisting.molecules.marketDropdown.eat": "Eat an apple a day"
 }
