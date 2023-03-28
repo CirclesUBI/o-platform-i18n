@@ -993,5 +993,6 @@
     "dapps.o-banking.molecules.trustChangeConfirmation.now": "now",
     "dapps.o-banking.molecules.trustChangeConfirmation.youRemovedTrust": "You removed your trust to",
     "dapps.o-banking.pages.xDaiDetail.xDai": "Xdai",
-    "dapps.o-banking.pages.xDaiDetail.safe": "Safe"
+    "dapps.o-banking.pages.xDaiDetail.safe": "Safe",
+    "dapps.o-banking.pages.xDaiDetail.safeOwner": "Safe Owner"
 }
