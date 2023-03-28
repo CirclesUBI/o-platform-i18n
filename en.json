@@ -985,5 +985,6 @@
     "dapps.o-marketlisting.pages.mystore.select-category": "Select Category",
     "common.close": "Close",
     "common.save": "Save",
-    "dapps.common.googlemaps.viewonGoogleMaps": "View on Google Maps"
+    "dapps.common.googlemaps.viewonGoogleMaps": "View on Google Maps",
+    "dapps.o-banking.atoms.bankingHeader.balance": "Balance"
 }
