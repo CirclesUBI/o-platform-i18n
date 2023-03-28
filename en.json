@@ -995,5 +995,6 @@
     "dapps.o-banking.pages.xDaiDetail.xDai": "Xdai",
     "dapps.o-banking.pages.xDaiDetail.safe": "Safe",
     "dapps.o-banking.pages.xDaiDetail.safeOwner": "Safe Owner",
-    "dapps.o-contacts.pages.contacts.noEntries": "No entries"
+    "dapps.o-contacts.pages.contacts.noEntries": "No entries",
+    "dapps.o-contacts.pages.profile.you": "You"
 }
