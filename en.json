@@ -1015,5 +1015,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.closed": "Closed",
     "dapps.o-marketlisting.pages.marketListingDetail.loadingDetails'": "loading details...",
     "dapps.o-notifications.pages.newUsers.newUsers": "New users",
-    "dapps.o-notifications.pages.redeemedInvitations.invitations": "Invitations"
+    "dapps.o-notifications.pages.redeemedInvitations.invitations": "Invitations",
+    "dapps.o-notifications.pages.transactions.txs": "Txs"
 }
