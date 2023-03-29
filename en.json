@@ -1046,5 +1046,6 @@
     "dapps.o-homepage.components.survey.userDataCollection.inviteValid": "Invite Valid",
     "dapps.o-homepage.components.survey.userDataCollection.scanInviteNow": "Scan Invite Now",
     "common.shareProfile": "Share Profile",
-    "common.market": "Market"
+    "common.market": "Market",
+    "common.favorites": "Favorites"
 }
