@@ -1021,5 +1021,6 @@
     "dapps.o-onboarding.processes.invitation.buyInvitation.getInvited": "Get invited",
     "dapps.o-onboarding.processes.invitation.buyInvitation.findSomeone": "Find somebody who can give you an invite code to join.\n",
     "dapps.o-onboarding.processes.invitation.buyInvitation.haveCode": "I have a code",
-    "dapps.o-onboarding.processes.invitation.buyInvitation.enterInvitCode": "Enter invitation code"
+    "dapps.o-onboarding.processes.invitation.buyInvitation.enterInvitCode": "Enter invitation code",
+    "dapps.o-onboarding.processes.invitation.buyInvitation.enterInvitCodeBelow": "Please enter your invitation code below to get started."
 }
