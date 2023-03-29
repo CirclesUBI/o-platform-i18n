@@ -1028,5 +1028,6 @@
     "dapps.o-passport.pages.account.ubi": "UBI",
     "dapps.o-passport.pages.home.addNewShop": "Add new Shop",
     "dapps.o-passport.pages.home.editShop": "Edit Shop",
-    "dapps.o-passport.pages.verifyEmail.thankYou": "Thank you"
+    "dapps.o-passport.pages.verifyEmail.thankYou": "Thank you",
+    "dapps.o-passport.pages.verifyEmail.emailVerifiedAndChanged": "Your Email address has been verified and changed."
 }
