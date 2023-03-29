@@ -1050,5 +1050,6 @@
     "common.favorites": "Favorites",
     "common.myStore": "My Store",
     "common.emailAddress": "Email address",
-    "common.actions": "Actions"
+    "common.actions": "Actions",
+    "common.trustEvents": "Trust events"
 }
