@@ -1052,5 +1052,6 @@
     "common.emailAddress": "Email address",
     "common.actions": "Actions",
     "common.trustEvents": "Trust events",
-    "common.invitations": "Invitations"
+    "common.invitations": "Invitations",
+    "common.notifications": "Notifications"
 }
