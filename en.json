@@ -1018,5 +1018,6 @@
     "dapps.o-notifications.pages.redeemedInvitations.invitations": "Invitations",
     "dapps.o-notifications.pages.transactions.txs": "Txs",
     "dapps.o-notifications.pages.trusts.trusts": "Trusts",
-    "dapps.o-onboarding.processes.invitation.buyInvitation.getInvited": "Get invited"
+    "dapps.o-onboarding.processes.invitation.buyInvitation.getInvited": "Get invited",
+    "dapps.o-onboarding.processes.invitation.buyInvitation.findSomeone": "Find somebody who can give you an invite code to join.\n"
 }
