@@ -1026,5 +1026,6 @@
     "dapps.o-onboarding.processes.invitation.buyInvitation.verify": "Verify",
     "dapps.o-onboarding.processes.unlockKey.unlockKey.invalidPin": "Invalid Pin",
     "dapps.o-passport.pages.account.ubi": "UBI",
-    "dapps.o-passport.pages.home.addNewShop": "Add new Shop"
+    "dapps.o-passport.pages.home.addNewShop": "Add new Shop",
+    "dapps.o-passport.pages.home.editShop": "Edit Shop"
 }
