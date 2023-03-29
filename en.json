@@ -1048,5 +1048,6 @@
     "common.shareProfile": "Share Profile",
     "common.market": "Market",
     "common.favorites": "Favorites",
-    "common.myStore": "My Store"
+    "common.myStore": "My Store",
+    "common.emailAddress": "Email address"
 }
