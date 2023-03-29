@@ -1035,5 +1035,6 @@
     "dapps.o-passport.pages.verifyEmail.emailVerificationFailed": "Your Email address verification failed.",
     "dapps.o-passport.pages.verifyEmail.linkExpired": "It is possible that this link has expired.",
     "dapps.o-passport.pages.verifyEmail.pleaseNote": "Please note that you have to click the verification link within 24 hours of receiving the email.",
-    "dapps.o-passport.pages.verifyEmail.please": "Please"
+    "dapps.o-passport.pages.verifyEmail.please": "Please",
+    "dapps.o-passport.pages.verifyEmail.login": "Log in"
 }
