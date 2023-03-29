@@ -1025,5 +1025,6 @@
     "dapps.o-onboarding.processes.invitation.buyInvitation.enterInvitCodeBelow": "Please enter your invitation code below to get started.",
     "dapps.o-onboarding.processes.invitation.buyInvitation.verify": "Verify",
     "dapps.o-onboarding.processes.unlockKey.unlockKey.invalidPin": "Invalid Pin",
-    "dapps.o-passport.pages.account.ubi": "UBI"
+    "dapps.o-passport.pages.account.ubi": "UBI",
+    "dapps.o-passport.pages.home.addNewShop": "Add new Shop"
 }
