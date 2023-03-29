@@ -1047,5 +1047,6 @@
     "dapps.o-homepage.components.survey.userDataCollection.scanInviteNow": "Scan Invite Now",
     "common.shareProfile": "Share Profile",
     "common.market": "Market",
-    "common.favorites": "Favorites"
+    "common.favorites": "Favorites",
+    "common.myStore": "My Store"
 }
