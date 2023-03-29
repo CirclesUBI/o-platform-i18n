@@ -1051,5 +1051,6 @@
     "common.myStore": "My Store",
     "common.emailAddress": "Email address",
     "common.actions": "Actions",
-    "common.trustEvents": "Trust events"
+    "common.trustEvents": "Trust events",
+    "common.invitations": "Invitations"
 }
