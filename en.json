@@ -1043,5 +1043,6 @@
     "apps.o-passport.pages.verifyEmail.verifyMyEmailAddress": "Verify my Email Address",
     "shared.atoms.error.reloadPage": "Reload Page",
     "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.error.somethingWentWrong": "OOps! Something went wrong",
-    "dapps.o-homepage.components.survey.userDataCollection.inviteValid": "Invite Valid"
+    "dapps.o-homepage.components.survey.userDataCollection.inviteValid": "Invite Valid",
+    "dapps.o-homepage.components.survey.userDataCollection.scanInviteNow": "Scan Invite Now"
 }
