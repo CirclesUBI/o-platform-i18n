@@ -1032,5 +1032,6 @@
     "dapps.o-passport.pages.verifyEmail.emailVerifiedAndChanged": "Your Email address has been verified and changed.",
     "dapps.o-passport.pages.verifyEmail.dashboard": "Go to the dashboard",
     "dapps.o-passport.pages.verifyEmail.oops": "Oops",
-    "dapps.o-passport.pages.verifyEmail.emailVerificationFailed": "Your Email address verification failed."
+    "dapps.o-passport.pages.verifyEmail.emailVerificationFailed": "Your Email address verification failed.",
+    "dapps.o-passport.pages.verifyEmail.linkExpired": "It is possible that this link has expired."
 }
