@@ -1041,5 +1041,6 @@
     "dapps.o-passport.pages.verifyEmail.verifyEmailAddress": "Verify your Email address",
     "dapps.o-passport.pages.verifyEmail.useButtonBellow": "Please use the button below to verify your Email address now.",
     "apps.o-passport.pages.verifyEmail.verifyMyEmailAddress": "Verify my Email Address",
-    "shared.atoms.error.reloadPage": "Reload Page"
+    "shared.atoms.error.reloadPage": "Reload Page",
+    "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.error.somethingWentWrong": "OOps! Something went wrong"
 }
