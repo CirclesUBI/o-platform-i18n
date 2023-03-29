@@ -1040,5 +1040,6 @@
     "dapps.o-passport.pages.verifyEmail.goToPassport": "and go to your Passport settings to enter your new Email address again to restart the verification process.",
     "dapps.o-passport.pages.verifyEmail.verifyEmailAddress": "Verify your Email address",
     "dapps.o-passport.pages.verifyEmail.useButtonBellow": "Please use the button below to verify your Email address now.",
-    "apps.o-passport.pages.verifyEmail.verifyMyEmailAddress": "Verify my Email Address"
+    "apps.o-passport.pages.verifyEmail.verifyMyEmailAddress": "Verify my Email Address",
+    "shared.atoms.error.reloadPage": "Reload Page"
 }
