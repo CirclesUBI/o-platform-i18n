@@ -827,7 +827,7 @@
     "dapps.o-passport.processes.logout.editorContent.title": "Log out",
     "dapps.o-passport.processes.upsertIdentity.editorContent.city.description": "Advance your city in the basic income ranking",
     "dapps.o-passport.processes.upsertIdentity.editorContent.city.placeholder": "Last name",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.city.submitButtonText": "Submit vote",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.city.submitButtonText": "Submit",
     "dapps.o-passport.processes.upsertIdentity.editorContent.city.title": "Select your location",
     "dapps.o-passport.processes.upsertIdentity.editorContent.dream.description": "What will you do different in your life with a monthly basic income?",
     "dapps.o-passport.processes.upsertIdentity.editorContent.dream.placeholder": "I will ...",
