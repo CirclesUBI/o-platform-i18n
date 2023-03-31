@@ -59,7 +59,7 @@
     "dapps.common.quickactions.untrust": "Untrust",
     "dapps.common.quickactions.verifyYourself": "Verify Yourself",
     "dapps.common.test": "test",
-    "dapps.o-banking.atoms.transferConfirmation.paymentPath": "Payment Path",
+    "dapps.o-banking.atoms.transferConfirmation.paymentPath": "wallet",
     "dapps.o-banking.atoms.transferConfirmation.recipientAddress": "Recipient Address",
     "dapps.o-banking.atoms.transferSummary.amount": "Amount",
     "dapps.o-banking.atoms.transferSummary.block": "Block",
