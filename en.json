@@ -1053,5 +1053,6 @@
     "common.actions": "Actions",
     "common.trustEvents": "Trust events",
     "common.invitations": "Invitations",
-    "common.notifications": "Notifications"
+    "common.notifications": "Notifications",
+    "dapps.o-banking.processes.setTrust.notAPersonalProfile": "You can not trust Organisations, only Personal Profiles."
 }
