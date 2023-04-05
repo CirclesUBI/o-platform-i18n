@@ -1055,5 +1055,6 @@
     "common.invitations": "Invitations",
     "common.notifications": "Notifications",
     "dapps.o-banking.processes.setTrust.notAPersonalProfile": "You can not trust Organisations, only Personal Profiles.",
-    "dapps.o-passport.pages.home.editProfile": "Edit Profile"
+    "dapps.o-passport.pages.home.editProfile": "Edit Profile",
+    "dapps.o-marketlisting.pages.mystore.settingsSaved": "Shop Settings Saved."
 }
