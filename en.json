@@ -441,7 +441,7 @@
     "dapps.o-marketplace.molecules.checkoutDelivery.addAddressButton": "Add Address",
     "dapps.o-marketplace.molecules.checkoutDelivery.delivery": "I want this order to be delivered to me",
     "dapps.o-marketplace.molecules.checkoutDelivery.error": "This shop only delivers to Germany. Please select or enter a German Postal Address.",
-    "dapps.o-marketplace.molecules.checkoutDelivery.openingHours": "Our Opening Hours are:",
+    "dapps.o-marketplace.molecules.checkoutDelivery.openingHours": "Opening Hours:",
     "dapps.o-marketplace.molecules.checkoutDelivery.pickup": " I want to pick this order up at the store",
     "dapps.o-marketplace.molecules.checkoutDelivery.youCanPickupAt": "You can pick up your order at:",
     "dapps.o-marketplace.molecules.checkoutSummary.paymentPath": "Payment Path",
