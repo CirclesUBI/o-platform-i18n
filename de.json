@@ -417,7 +417,7 @@
     "dapps.o-humanode.processes.processDefinition.showSuccess.params.description": "You have been verified as a unique person.",
     "dapps.o-humanode.processes.processDefinition.showSuccess.params.submitButtonText": "OK",
     "dapps.o-humanode.processes.processDefinition.showSuccess.params.title": "Success",
-    "dapps.o-marketlisting.molecules.categoryfilter.filter": "Filter:",
+    "dapps.o-marketlisting.molecules.categoryfilter.filter": "Select vendor types",
     "dapps.o-marketlisting.molecules.categoryfilter.test": "TestFilter:",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortby": "Sort by:",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.alphabetical": "Name",
