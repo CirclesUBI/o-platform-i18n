@@ -417,7 +417,7 @@
     "dapps.o-humanode.processes.processDefinition.showSuccess.params.description": "Anda telah diverifikasi sebagai orang baru. ",
     "dapps.o-humanode.processes.processDefinition.showSuccess.params.submitButtonText": "OK",
     "dapps.o-humanode.processes.processDefinition.showSuccess.params.title": "Berhasil",
-    "dapps.o-marketlisting.molecules.categoryfilter.filter": "Filter:",
+    "dapps.o-marketlisting.molecules.categoryfilter.filter": "Select vendor types",
     "dapps.o-marketlisting.molecules.categoryfilter.test": "TestFilter:",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortby": "Sort by:",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.alphabetical": "Name",
