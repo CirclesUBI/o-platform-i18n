@@ -700,7 +700,7 @@
     "dapps.o-passport.molecules.openingHoursDayEditor.fromValueFormatError": "Your 'from' value is not formatted properly. Expected: hh:mm",
     "dapps.o-passport.molecules.openingHoursDayEditor.toValueFormatError": "Your 'to' value is not formatted properly. Expected: hh:mm",
     "dapps.o-passport.pages.account.subTitle": "Main Account holder",
-    "dapps.o-passport.pages.exchangeToken.pleaseWait": "Please wait. We're logging you in.",
+    "dapps.o-passport.pages.exchangeToken.pleaseWait": "Please wait. We are logging you in.",
     "dapps.o-passport.pages.home.address": "Address",
     "dapps.o-passport.pages.home.addshop": "Add new shop",
     "dapps.o-passport.pages.home.myshops": "My Shops",
