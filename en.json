@@ -719,7 +719,7 @@
     "dapps.o-passport.pages.upsertOrganization.category": "Category",
     "dapps.o-passport.pages.upsertOrganization.contactInformation": "Contact",
     "dapps.o-passport.pages.upsertOrganization.description": "Description",
-    "dapps.o-passport.pages.upsertOrganization.generalInformation": "General",
+    "dapps.o-passport.pages.upsertOrganization.generalInformation": "Your Shop Profile",
     "dapps.o-passport.pages.upsertOrganization.information": "Your Information",
     "dapps.o-passport.pages.upsertOrganization.location": "Location",
     "dapps.o-passport.pages.upsertOrganization.locationInputPlaceholder": "Store address",
