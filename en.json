@@ -1062,5 +1062,6 @@
     "shared.quickActions.myprofiles": "THIS STRING IS NOT USED",
     "shared.actionMenu.myprofiles": "My Profiles",
     "shared.actionMenu.quickactions": "Quick Actions",
-    "common.googlemaps.locationService.noLocationSupport": "Your browser does not support the Geolocation API."
+    "common.googlemaps.locationService.noLocationSupport": "Your browser does not support the Geolocation API.",
+    "common.googlemaps.locationService.loadingLocation": "Loading your Location..."
 }
