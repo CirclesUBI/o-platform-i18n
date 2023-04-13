@@ -1061,5 +1061,6 @@
     "dapps.o-banking.processes.transfer.findTransferPath.tryWithSmallerAmount": "Couldn't transfer the requested amount, please retry with a smaller amount",
     "shared.quickActions.myprofiles": "THIS STRING IS NOT USED",
     "shared.actionMenu.myprofiles": "My Profiles",
-    "shared.actionMenu.quickactions": "Quick Actions"
+    "shared.actionMenu.quickactions": "Quick Actions",
+    "common.googlemaps.locationService.noLocationSupport": "Your browser does not support the Geolocation API."
 }
