@@ -1060,5 +1060,6 @@
     "dapps.common.cannotSendToYourself": "You can't send to yourself",
     "dapps.o-banking.processes.transfer.findTransferPath.tryWithSmallerAmount": "Couldn't transfer the requested amount, please retry with a smaller amount",
     "shared.quickActions.myprofiles": "THIS STRING IS NOT USED",
-    "shared.actionMenu.myprofiles": "My Profiles"
+    "shared.actionMenu.myprofiles": "My Profiles",
+    "shared.actionMenu.quickactions": "Quick Actions"
 }
