@@ -1059,5 +1059,6 @@
     "dapps.o-marketlisting.pages.mystore.settingsSaved": "Shop Settings Saved.",
     "dapps.common.cannotSendToYourself": "You can't send to yourself",
     "dapps.o-banking.processes.transfer.findTransferPath.tryWithSmallerAmount": "Couldn't transfer the requested amount, please retry with a smaller amount",
-    "shared.quickActions.myprofiles": "My Profiles"
+    "shared.quickActions.myprofiles": "My Profiles",
+    "shared.actionMenu.myprofiles": "My Profiles"
 }
