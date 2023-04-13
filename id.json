@@ -386,7 +386,7 @@
     "dapps.o-homepage.components.survey.title.top": "Welcome To",
     "dapps.o-homepage.components.survey.userDataCollection.bornOn": "I was born on (dd/mm/yyyy):",
     "dapps.o-homepage.components.survey.userDataCollection.gender": "My gender is:",
-    "dapps.o-homepage.components.survey.userDataCollection.info": "My business offers:",
+    "dapps.o-homepage.components.survey.userDataCollection.info": "You haven't yet finished filling in some required information.",
     "dapps.o-homepage.components.survey.userDataCollection.myBusinessOffers": "My business offers:",
     "dapps.o-homepage.components.survey.userDataCollection.scanInvite": "Scan Invite QR Code",
     "dapps.o-homepage.components.survey.userDataCollection.subtitle": "Please tell us a bit more about you, and how you intend to use Circles.",
