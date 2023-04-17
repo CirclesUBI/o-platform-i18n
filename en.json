@@ -240,7 +240,7 @@
     "dapps.o-coop.processes.createOrganisations.notLoggedOn": "You're not logged on",
     "dapps.o-coop.processes.createOrganisations.notUnlockedPrivateKey": "The private key is not unlocked",
     "dapps.o-coop.processes.createRegions.couldNotSendInvitation": "Couldn't send the invitation transaction",
-    "dapps.o-coop.processes.createRegions.createRegionContext.avatar.description": "Show the World who you are",
+    "dapps.o-coop.processes.createRegions.createRegionContext.avatar.description": "Use a real photo of your face so your community will recognize you!",
     "dapps.o-coop.processes.createRegions.createRegionContext.avatar.placeholder": "Upload Image",
     "dapps.o-coop.processes.createRegions.createRegionContext.avatar.submitButtonText": "Upload Image",
     "dapps.o-coop.processes.createRegions.createRegionContext.avatar.title": "Profile Image",
