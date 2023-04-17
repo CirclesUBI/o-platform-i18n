@@ -129,7 +129,7 @@
     "dapps.o-banking.processes.transfer.tokens.dataSchema.typeError": "Please enter a valid number.",
     "dapps.o-banking.processes.transferXdai.entry.message": "Processing xDai transfer ..",
     "dapps.o-contacts.atoms.chatListCard.invitedYouTo": "invited you to",
-    "dapps.o-contacts.atoms.chatListCard.invitedYouToCirclesLand": "invited you to CirclesLand.",
+    "dapps.o-contacts.atoms.chatListCard.invitedYouToCirclesLand": "invited you to Circles",
     "dapps.o-contacts.atoms.chatListCard.isTrustingYou": "is trusting you",
     "dapps.o-contacts.atoms.chatListCard.mutualTrust": "mutual trust",
     "dapps.o-contacts.atoms.chatListCard.notTrusted": "not trusted",
