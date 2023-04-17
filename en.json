@@ -851,7 +851,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.submitButtonText": "Save",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.title": "What is your last name?",
     "dapps.o-passport.processes.upsertIdentity.editorContent.location.submitButtonText": "Save",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.newsletter.description": "Stay up to date with new places, events and products where you can spend your Circles?",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.newsletter.description": "Stay up to date with new places, events and goods where you can spend your Circles?",
     "dapps.o-passport.processes.upsertIdentity.editorContent.newsletter.title": "Subscribe to newsletter?",
     "dapps.o-passport.processes.upsertIdentity.maximumChars": "The maximum amount of characters allowed is 150.",
     "dapps.o-passport.processes.upsertIdentity.newsletter.options.dontSubscribe": "No thanks",
