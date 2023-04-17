@@ -210,7 +210,7 @@
     "dapps.o-coop.processes.addMembers.memberAddress.placeholder": "Select",
     "dapps.o-coop.processes.addMembers.memberAddress.submitButtonText": "Add",
     "dapps.o-coop.processes.addMembers.memberAddress.title": "Select the person you want to add",
-    "dapps.o-coop.processes.createOrganisation.editorContent.location.description": "Please enter an address so that people can find you",
+    "dapps.o-coop.processes.createOrganisation.editorContent.location.description": "Please enter an address so that your community can find you",
     "dapps.o-coop.processes.createOrganisation.editorContent.location.placeholder": "...",
     "dapps.o-coop.processes.createOrganisation.editorContent.location.title": "Where is your business?",
     "dapps.o-coop.processes.createOrganisations.couldNotSend": "Couldn't send the invitation transaction",
