@@ -1064,5 +1064,6 @@
     "shared.actionMenu.quickactions": "Quick Actions",
     "common.googlemaps.locationService.noLocationSupport": "Your browser does not support the Geolocation API.",
     "common.googlemaps.locationService.loadingLocation": "Loading your Location...",
-    "common.googlemaps.locationService.locationDenied": "Browser location denied. Can't display your location."
+    "common.googlemaps.locationService.locationDenied": "Browser location denied. Can't display your location.",
+    "dapps.o-banking.processes.setTrust.setTrust.gettingProfile": "Getting Profile..."
 }
