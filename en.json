@@ -376,7 +376,7 @@
     "dapps.o-homepage.components.survey.informedConsent.sixthCheckbox": "I understand that I can only receive circles points from someone that is trusted by me or my circles friends",
     "dapps.o-homepage.components.survey.informedConsent.thirdCheckbox": "I understand that when the Circles research project end I may not be able to use Circles points that remain in my Circles wallet.",
     "dapps.o-homepage.components.survey.informedConsent.title.bottom": "If you have any questions, please reach out to a local circles representative.",
-    "dapps.o-homepage.components.survey.informedConsent.title.middle": "If you agree, press the boxes to tick.",
+    "dapps.o-homepage.components.survey.informedConsent.title.middle": "If you agree, tap the boxes to tick.",
     "dapps.o-homepage.components.survey.informedConsent.title.top": "Before you can use this app you need to agree to the following points.",
     "dapps.o-homepage.components.survey.signupInvitation.noInvitationCode": "We don't seem to have your Invite. <br/>Please go back and scan the invitation QR Code.",
     "dapps.o-homepage.components.survey.signupInvitation.success.subtitle": "You can now sign up",
