@@ -756,7 +756,7 @@
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.editorContent.verification.description": "A pleasure you found your way here. Please provide your email address to Sign-In",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.editorContent.verification.placeholder": "Email address",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.editorContent.verification.submitButtonText": "Let me in",
-    "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.editorContent.verification.title": "Welcome to CirclesLand",
+    "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.editorContent.verification.title": "Welcome to Circles",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.errorRequestingChallenge.error": "An error occurred while requesting an auth-challenge.",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.errorRequestingChallenge.submitButtonText": "Try again",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.strings.labelLoginEmail": "Welcome to CirclesLand. <br/><span class='text-base text-light-dark font-normal block mt-3'>A pleasure you found your way here. Please provide your email address to Sign-In</span>",
