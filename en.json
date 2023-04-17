@@ -840,7 +840,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.description": "What is your first name? Use the name your community knows you by ",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.placeholder": "First Name",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.submitButtonText": "Save",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.title": "Welcome to Circles",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.title": "What is your first name?",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.description": "Show the world who you are",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.placeholder": "Upload image",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.submitButtonText": "Save image",
