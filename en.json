@@ -298,7 +298,7 @@
     "dapps.o-dashboard.pages.invites.onlyOnce": "Can only be claimed once",
     "dapps.o-dashboard.pages.shareInvitation.shareDescription": "Show this QR Code or choose a way to share an invite link below",
     "dapps.o-dashboard.pages.shareInvitation.shareRefused": "You can't invite others just yet. you have to get verified first.<br />We're working on it :)",
-    "dapps.o-dashboard.pages.shareInvitation.shareTitle": "Share an invite to circlesland",
+    "dapps.o-dashboard.pages.shareInvitation.shareTitle": "Share an invite to Circles",
     "dapps.o-homepage.atoms.menu.blog": "Blog",
     "dapps.o-homepage.atoms.menu.chat": "Chat",
     "dapps.o-homepage.atoms.menu.forum": "Forum",
