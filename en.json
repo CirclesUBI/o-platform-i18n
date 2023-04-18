@@ -212,7 +212,7 @@
     "dapps.o-coop.processes.addMembers.memberAddress.title": "Select the person you want to add",
     "dapps.o-coop.processes.createOrganisation.editorContent.location.description": "Please enter an address so that your community can find you",
     "dapps.o-coop.processes.createOrganisation.editorContent.location.placeholder": "...",
-    "dapps.o-coop.processes.createOrganisation.editorContent.location.title": "Where is your business?",
+    "dapps.o-coop.processes.createOrganisation.editorContent.location.title": "Where is your shop located?",
     "dapps.o-coop.processes.createOrganisations.couldNotSend": "Couldn't send the invitation transaction",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.avatar.description": "Help people understand what you offer",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.avatar.placeholder": "Upload Image",
