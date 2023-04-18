@@ -984,5 +984,6 @@
     "dapps.o-marketlisting.pages.mystore.select-category": "Pilih Kategori",
     "dapps.common.googlemaps.viewonGoogleMaps": "View on Google Maps",
     "dapps.o-homepage.components.survey.userDataCollection.inviteValid": "Invite bener",
-    "dapps.o-homepage.components.survey.userDataCollection.scanInviteNow": "Scan Invite"
+    "dapps.o-homepage.components.survey.userDataCollection.scanInviteNow": "Scan Invite",
+    "dapps.o-banking.molecules.trustChangeConfirmation.youTrust": "Kamu percaya"
 }
