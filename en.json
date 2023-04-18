@@ -110,7 +110,7 @@
     "dapps.o-banking.processes.transfer.editorContent.recipient.submitButtonText": "Enter Name",
     "dapps.o-banking.processes.transfer.editorContent.recipient.title": "Select the recipient you want to send Circles to",
     "dapps.o-banking.processes.transfer.editorContent.success.submitButtonText": "Close",
-    "dapps.o-banking.processes.transfer.editorContent.success.title": "Exchange successful",
+    "dapps.o-banking.processes.transfer.editorContent.success.title": "sent!",
     "dapps.o-banking.processes.transfer.findMaxFlow.entry.message": "Calculating the maximum transfer amount ..",
     "dapps.o-banking.processes.transfer.findMaxFlow.invoke.error": "No recipient address on context",
     "dapps.o-banking.processes.transfer.findTransferPath.entry.message": "Finding your paths to the payment receiver ..",
