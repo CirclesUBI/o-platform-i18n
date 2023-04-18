@@ -846,7 +846,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.submitButtonText": "Save image",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.title": "Profile Image",
     "dapps.o-passport.processes.upsertIdentity.editorContent.info.title": "your lifetime is precious",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.description": "Display your full name that your community knows you by so they can easily find you on the app",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.description": "Use the name that your community knows you by so they can easily find you on the app",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.placeholder": "Last name",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.submitButtonText": "Save",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.title": "What is your last name?",
