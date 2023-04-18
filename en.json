@@ -662,7 +662,7 @@
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.message": "Please wait, redeeming your Invitation...",
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.onError": "The following error occurred while redeeming you claimed invitation:",
     "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.description": "Please choose a sign-in option<br/> <small>By choosing one of the sign-in options you agree to our <a href='https://coda.io/@circlesland/terms' target='_blank' class='link' alt='privacy'>Terms of Service</a>.</small>",
-    "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.title": "Welcome to Circles Land",
+    "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.title": "Welcome to Circles",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.description": "The pin will be used to decrypt your private key on your device.",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.placeholder": "Enter Pin",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.stringRequired": "Please enter a encryptingPin to protect your private key",
