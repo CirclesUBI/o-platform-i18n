@@ -1067,5 +1067,6 @@
     "common.googlemaps.locationService.locationDenied": "Browser location denied. Can't display your location.",
     "dapps.o-banking.processes.setTrust.setTrust.gettingProfile": "Getting Profile…",
     "dapps.o-banking.processes.setTrust.setTrust.verifyingProfile": "Verifying Profile…",
-    "dapps.o-contacts.pages.profile.members": "Shop Owner"
+    "dapps.o-contacts.pages.profile.members": "Shop Owner",
+    "common.inAppError": "You are using an in-app browser which is not supported in our app ! Please use a native browser from  your device instead."
 }
