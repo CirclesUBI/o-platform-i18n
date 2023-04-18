@@ -982,5 +982,6 @@
     "shared.userActions.trust": "Memercayai",
     "shared.userActions.untrust": "Tidak memercayai",
     "dapps.o-marketlisting.pages.mystore.select-category": "Pilih Kategori",
-    "dapps.common.googlemaps.viewonGoogleMaps": "View on Google Maps"
+    "dapps.common.googlemaps.viewonGoogleMaps": "View on Google Maps",
+    "dapps.o-homepage.components.survey.userDataCollection.inviteValid": "Invite bener"
 }
