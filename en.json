@@ -1066,5 +1066,6 @@
     "common.googlemaps.locationService.loadingLocation": "Loading your Location...",
     "common.googlemaps.locationService.locationDenied": "Browser location denied. Can't display your location.",
     "dapps.o-banking.processes.setTrust.setTrust.gettingProfile": "Getting Profile…",
-    "dapps.o-banking.processes.setTrust.setTrust.verifyingProfile": "Verifying Profile…"
+    "dapps.o-banking.processes.setTrust.setTrust.verifyingProfile": "Verifying Profile…",
+    "dapps.o-contacts.pages.profile.members": "Shop Owner"
 }
