@@ -121,7 +121,7 @@
     "dapps.o-banking.processes.transfer.strings.labelRecipientAddress": "Select the recipient you want to send Circles to",
     "dapps.o-banking.processes.transfer.strings.messageLabel": "Purpose of transfer",
     "dapps.o-banking.processes.transfer.strings.summaryLabel": "Summary",
-    "dapps.o-banking.processes.transfer.strings.tokensLabel": "Please enter the amount",
+    "dapps.o-banking.processes.transfer.strings.tokensLabel": "Enter the amount of Circles you want to send",
     "dapps.o-banking.processes.transfer.tokens.currency": "Please select a valid currency",
     "dapps.o-banking.processes.transfer.tokens.dataSchema.min": "Please enter at least 0.1",
     "dapps.o-banking.processes.transfer.tokens.dataSchema.positive": "Please enter a valid amount.",
