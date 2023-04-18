@@ -201,7 +201,7 @@
     "dapps.o-coop.manifest.createOrganization": "Create Shop",
     "dapps.o-coop.molecules.switchProfile": "Switch Profile",
     "dapps.o-coop.pages.organisationDetail.address": "Address",
-    "dapps.o-coop.pages.organisationDetail.description": "Describe what you offer in a few sentences",
+    "dapps.o-coop.pages.organisationDetail.description": "DESCRIPTION",
     "dapps.o-coop.pages.organisationDetail.isTrustingYou": "is trusting you",
     "dapps.o-coop.pages.organisationDetail.loading": "...loading",
     "dapps.o-coop.pages.organisationDetail.members": "Members",
