@@ -99,7 +99,7 @@
     "dapps.o-banking.processes.transfer.editorContent.confirm.submitButtonText": "Send Circles",
     "dapps.o-banking.processes.transfer.editorContent.confirm.title": "You are about to send",
     "dapps.o-banking.processes.transfer.editorContent.currency.submitButtonText": "Submit",
-    "dapps.o-banking.processes.transfer.editorContent.currency.title": "Please enter the amount in Circles",
+    "dapps.o-banking.processes.transfer.editorContent.currency.title": "Enter the amount of Circles you want to send",
     "dapps.o-banking.processes.transfer.editorContent.message.submitButtonText": "Submit",
     "dapps.o-banking.processes.transfer.editorContent.message.title": "Transfer Message",
     "dapps.o-banking.processes.transfer.editorContent.recipient.placeholder": "Recipient",
