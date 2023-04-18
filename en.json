@@ -546,7 +546,7 @@
     "dapps.o-marketplace.processes.getTrusted.submitButtonText": "Verify me",
     "dapps.o-marketplace.processes.getTrusted.title": "Get trusted by owner",
     "dapps.o-marketplace.processes.purchases.calculatePaths.errorMessage": "Your don't have enough trust paths to the following sellers: ",
-    "dapps.o-marketplace.processes.purchases.calculatePaths.message": "Checking transferable circle amount ..",
+    "dapps.o-marketplace.processes.purchases.calculatePaths.message": "Calculating the maximum amount ..",
     "dapps.o-marketplace.processes.purchases.createPurchase.message": "Processing your purchase ..",
     "dapps.o-marketplace.processes.purchases.editorContent.delivery.description": "Please select a delivery option",
     "dapps.o-marketplace.processes.purchases.editorContent.delivery.submitButtonText": "Next",
