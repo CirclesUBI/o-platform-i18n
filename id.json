@@ -840,7 +840,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.description": "Gunakan nama panggilan yang dikenali oleh komunitas Anda sehingga mudah ditemukan di aplikasi ",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.placeholder": "Nama Depan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.submitButtonText": "Simpan",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.title": "Siapa nama panggilan anda?",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.title": "Nama Depan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.description": "Gunakan foto asli Anda agar mudah dikenali!",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.placeholder": "Unggah Foto",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.submitButtonText": "Simpan foto",
