@@ -231,7 +231,7 @@
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.title": "Shop Description",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.description": "Type your shop name",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.enterOrganisationName": "Type your shop name",
-    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.placeholder": "Name",
+    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.placeholder": "Shop Name",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.submitButtonText": "Save",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.title": "Shop Name",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.signupOrganisation.notUnlockedKey": "The private key is not unlocked",
