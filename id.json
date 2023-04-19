@@ -850,7 +850,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.placeholder": "Nama belakang",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.submitButtonText": "Simpan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.title": "Siapa nama belakang anda?",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.location.submitButtonText": "Save",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.location.submitButtonText": "Simpan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.newsletter.description": "Tetap up to date dengan tempat, acara, dan produk baru di mana Anda dapat menghabiskan Circles Anda?",
     "dapps.o-passport.processes.upsertIdentity.editorContent.newsletter.title": "Berlangganan newsletter?",
     "dapps.o-passport.processes.upsertIdentity.maximumChars": "Jumlah maksimum karakter yang diperbolehkan adalah 150.",
