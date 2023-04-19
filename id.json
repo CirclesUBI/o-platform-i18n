@@ -986,5 +986,6 @@
     "dapps.o-homepage.components.survey.userDataCollection.inviteValid": "Invite bener",
     "dapps.o-homepage.components.survey.userDataCollection.scanInviteNow": "Scan Invite",
     "dapps.o-banking.molecules.trustChangeConfirmation.youTrust": "Kamu percaya",
-    "dapps.o-banking.atoms.bankingHeader.balance": "Saldo"
+    "dapps.o-banking.atoms.bankingHeader.balance": "Saldo",
+    "shared.actionMenu.myprofiles": "Profil Saya"
 }
