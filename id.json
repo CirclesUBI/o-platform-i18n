@@ -837,7 +837,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.emailAddress.placeholder": "your@emailaddress.net",
     "dapps.o-passport.processes.upsertIdentity.editorContent.emailAddress.submitButtonText": "Simpan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.emailAddress.title": "Masukkan alamat email Anda",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.description": "Siapa nama depan Anda?",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.description": "Gunakan nama panggilan yang dikenali oleh komunitas Anda sehingga mudah ditemukan di aplikasi ",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.placeholder": "Nama Depan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.submitButtonText": "Simpan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.title": "Siapa nama panggilan anda?",
