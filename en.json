@@ -95,7 +95,7 @@
     "dapps.o-banking.processes.showAssetDetail.success.return": "yeah!",
     "dapps.o-banking.processes.showProfile.success.return": "Success!",
     "dapps.o-banking.processes.showTransaction.success.return": "yeah!",
-    "dapps.o-banking.processes.transfer.checkAmount.contextMessages": "Your trust connections are not sufficient to do this transaction. Trust each other on the app first so you can do this transaction. {formattedMax}.",
+    "dapps.o-banking.processes.transfer.checkAmount.contextMessages": "Your trust connections are not sufficient to do this exchange. Trust each other on the app first so you can do this exchange. {formattedMax}.",
     "dapps.o-banking.processes.transfer.editorContent.confirm.submitButtonText": "Send Circles",
     "dapps.o-banking.processes.transfer.editorContent.confirm.title": "You are about to send",
     "dapps.o-banking.processes.transfer.editorContent.currency.submitButtonText": "Submit",
