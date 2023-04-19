@@ -997,5 +997,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.friday": "Jumat",
     "dapps.o-marketlisting.pages.marketListingDetail.saturday": "Sabtu",
     "dapps.o-marketlisting.pages.marketListingDetail.sunday": "Minggu",
-    "common.save": "Simpan"
+    "common.save": "Simpan",
+    "dapps.o-marketlisting.pages.mystore.settingsSaved": "Pengaturan Toko Tersimpan."
 }
