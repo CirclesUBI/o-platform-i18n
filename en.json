@@ -1068,5 +1068,7 @@
     "dapps.o-banking.processes.setTrust.setTrust.gettingProfile": "Getting Profile…",
     "dapps.o-banking.processes.setTrust.setTrust.verifyingProfile": "Verifying Profile…",
     "dapps.o-contacts.pages.profile.members": "Shop Owner",
-    "common.inAppError": "You are using an in-app browser which is not supported in our app ! Please use a native browser from  your device instead."
+    "common.inAppError": "You are using an in-app browser which is not supported in our app ! Please use a native browser from  your device instead.",
+    "common.open": "Open",
+    "common.closed": "Closed"
 }
