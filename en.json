@@ -147,7 +147,7 @@
     "dapps.o-contacts.atoms.chatListCard.youInvited": "You invited",
     "dapps.o-contacts.atoms.chatListCard.youSent": "You sent",
     "dapps.o-contacts.atoms.chatListCard.youWrote": "You wrote:",
-    "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.icon": "sendcircles",
+    "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.icon": "send Circles",
     "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.ifIn": "Sent you",
     "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.ifOut.to": "to",
     "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.ifOut.youSent": "You sent",
