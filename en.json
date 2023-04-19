@@ -837,7 +837,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.emailAddress.placeholder": "your@emailaddress.net",
     "dapps.o-passport.processes.upsertIdentity.editorContent.emailAddress.submitButtonText": "Save",
     "dapps.o-passport.processes.upsertIdentity.editorContent.emailAddress.title": "Email Address",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.description": "Use the name that your community knows you by so they can easily find you on the app ",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.description": "Use the name or nickname that your community knows you by so they can easily find you on the app ",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.placeholder": "First Name",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.submitButtonText": "Save",
     "dapps.o-passport.processes.upsertIdentity.editorContent.firstName.title": "What is your first name?",
