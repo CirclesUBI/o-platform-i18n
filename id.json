@@ -25,7 +25,7 @@
     "common.privacyPolicy": "Kebijakan Pribadi",
     "common.profile": "Profil",
     "common.recentProfiles": "Profil Terbaru",
-    "common.saturday": "Saturday",
+    "common.saturday": "Sabtu",
     "common.selectAValue": "Select ..",
     "common.sendMoney": "Kirim Uang",
     "common.settings": "Pengaturan",
@@ -33,7 +33,7 @@
     "common.support": "Bantuan",
     "common.supportUrl": "https://discord.gg/4DBbRCMnFZ",
     "common.termsOfService": "Persyaratan Layanan",
-    "common.thursday": "Thursday",
+    "common.thursday": "Kamis",
     "common.to": "ke",
     "common.tokens": "Token",
     "common.transactions": "Transaksi",
@@ -991,5 +991,9 @@
     "shared.actionMenu.quickactions": "Menu Pintas",
     "dapps.o-passport.pages.home.editShop": "Sunting Toko",
     "dapps.o-passport.pages.home.editProfile": "Rubah Profil",
-    "dapps.o-marketlisting.pages.marketListingDetail.wednesday": "Rabu"
+    "dapps.o-marketlisting.pages.marketListingDetail.wednesday": "Rabu",
+    "dapps.o-marketlisting.pages.marketListingDetail.tuesday": "Selasa",
+    "dapps.o-marketlisting.pages.marketListingDetail.thursday": "Kamis",
+    "dapps.o-marketlisting.pages.marketListingDetail.friday": "Jumat",
+    "dapps.o-marketlisting.pages.marketListingDetail.saturday": "Sabtu"
 }
