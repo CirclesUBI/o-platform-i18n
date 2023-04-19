@@ -895,7 +895,7 @@
     "shared.api.loadProfileByProfileId.error": "Tidak dapat menemukan profil dengan id '{profileId}'.",
     "shared.api.promptFile.contextDataErrorUploadFile": "<b>Ups.</b><br/>Kami tidak dapat mengupload file Anda.<br/><br/>Pastikan file Anda tidak melebihi ukuran file maksimum yang diizinkan sebesar 4 MB.<br />Pilih file lain atau lewati untuk saat ini.",
     "shared.api.promptFile.pleaseSpecifyValidFile": "\nHarap tentukan file yang valid.",
-    "shared.api.promptFile.saveImage": "Simpan Gambar",
+    "shared.api.promptFile.saveImage": "Simpan Foto",
     "shared.api.promptFile.tryAgain": "Coba lagi",
     "shared.api.promptFile.uploadingFile": "Mengunggah file Anda",
     "shared.api.uploadFile.couldNotUpload": "Tidak dapat mengunggah file ",
@@ -996,5 +996,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.thursday": "Kamis",
     "dapps.o-marketlisting.pages.marketListingDetail.friday": "Jumat",
     "dapps.o-marketlisting.pages.marketListingDetail.saturday": "Sabtu",
-    "dapps.o-marketlisting.pages.marketListingDetail.sunday": "Minggu"
+    "dapps.o-marketlisting.pages.marketListingDetail.sunday": "Minggu",
+    "common.save": "Simpan"
 }
