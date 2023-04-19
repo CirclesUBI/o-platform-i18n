@@ -846,7 +846,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.submitButtonText": "Simpan foto",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.title": "Foto Profil",
     "dapps.o-passport.processes.upsertIdentity.editorContent.info.title": "your lifetime is precious",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.description": "Lengkapi nama panggilan Anda!",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.description": "Lengkapi nama panggilan Anda",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.placeholder": "Nama belakang",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.submitButtonText": "Simpan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.title": "Nama belakang anda?",
