@@ -699,7 +699,7 @@
     "dapps.o-passport.molecules.openingHoursDayEditor.elementConflict": "The window conflicts with an existing window",
     "dapps.o-passport.molecules.openingHoursDayEditor.fromValueFormatError": "Your 'from' value is not formatted properly. Expected: hh:mm",
     "dapps.o-passport.molecules.openingHoursDayEditor.toValueFormatError": "Your 'to' value is not formatted properly. Expected: hh:mm",
-    "dapps.o-passport.pages.account.subTitle": "Pemegang Akun Utama",
+    "dapps.o-passport.pages.account.subTitle": "Pemilik Akun",
     "dapps.o-passport.pages.exchangeToken.pleaseWait": "Mohon tunggu. Kami sedang memasukkan Anda.",
     "dapps.o-passport.pages.home.address": "Alamat",
     "dapps.o-passport.pages.home.addshop": "Add new shop",
