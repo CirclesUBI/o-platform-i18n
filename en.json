@@ -999,7 +999,7 @@
     "dapps.o-contacts.pages.profile.you": "You",
     "dapps.o-contacts.pages.scanToTrust.alreadyTrusting": "You are already trusting this user.",
     "dapps.o-contacts.pages.scanToTrust.cantTrustYourself": "You can't trust yourself, or do you? ;)",
-    "dapps.o-contacts.pages.scanToTrust.scanProfileQR": "Scan Profile QR Code to Instant-Trust",
+    "dapps.o-contacts.pages.scanToTrust.scanProfileQR": "Scan the Profile QR Code to trust",
     "dapps.o-coop.processes.addOwner.ownerAdded": "A new owner was successfully added.",
     "dapps.o-marketlisting.molecules.marketDropdown.eat": "Eat an apple a day",
     "dapps.o-marketlisting.molecules.marketDropdown.dropdown": "Dropdown",
