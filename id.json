@@ -727,7 +727,7 @@
     "dapps.o-passport.pages.upsertOrganization.name": "Name",
     "dapps.o-passport.pages.upsertOrganization.openingHours": "Open on",
     "dapps.o-passport.pages.upsertOrganization.phone": "Phone no.",
-    "dapps.o-passport.pages.upsertOrganization.picture": "Picture",
+    "dapps.o-passport.pages.upsertOrganization.picture": "Foto",
     "dapps.o-passport.processes.authenticateSso.authCodeAlreadyExpired": "{context} sudah kedaluwarsa.",
     "dapps.o-passport.processes.authenticateSso.couldNotRequestAuthCode": "\nTidak dapat meminta kode autentikasi delegasi dari api: {error}",
     "dapps.o-passport.processes.authenticateSso.couldNotRequestChallenge": "Tidak dapat meminta tantangan dari server auth: {error}",
