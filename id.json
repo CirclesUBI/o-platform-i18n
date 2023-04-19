@@ -224,7 +224,7 @@
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.country.title": "Where is you organisation located?",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.deployOrganisation.needFullAccountSetup": "You need a fully set-up circles account to create an organisation.",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.deployOrganisation.notUnlockedKey": "The private key is not unlocked",
-    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.description": "DESCRIPTION",
+    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.description": "Ketik nama toko Anda",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.maximumChars": "The maximum amount of characters allowed is 150.",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.placeholder": "Description",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.submitButtonText": "Simpan",
