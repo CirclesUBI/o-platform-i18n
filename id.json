@@ -200,7 +200,7 @@
     "dapps.o-contacts.pages.profile.verify": "Verifikasi",
     "dapps.o-coop.manifest.createOrganization": "Create Organization",
     "dapps.o-coop.molecules.switchProfile": "Ganti Profil",
-    "dapps.o-coop.pages.organisationDetail.address": "Alamat",
+    "dapps.o-coop.pages.organisationDetail.address": "Alamat Akun",
     "dapps.o-coop.pages.organisationDetail.description": "Deskripsi",
     "dapps.o-coop.pages.organisationDetail.isTrustingYou": "mempercayaimu",
     "dapps.o-coop.pages.organisationDetail.loading": "...sedang memuat",
