@@ -39,10 +39,10 @@
     "common.transactions": "Transaksi",
     "common.trusted": "dipercayai",
     "common.trustToDo": "Percaya Untuk Melakukan",
-    "common.tuesday": "Tuesday",
+    "common.tuesday": "Selasa",
     "common.untrusted": "tidak dipercaya",
     "common.verifications": "Verifikasi",
-    "common.wednesday": "Wednesday",
+    "common.wednesday": "Rabu",
     "common.whitepaper": "Whitepaper",
     "common.yes": "Ya",
     "common.youInvited": "Anda Diundang",
@@ -990,5 +990,6 @@
     "shared.actionMenu.myprofiles": "Profil Saya",
     "shared.actionMenu.quickactions": "Menu Pintas",
     "dapps.o-passport.pages.home.editShop": "Sunting Toko",
-    "dapps.o-passport.pages.home.editProfile": "Rubah Profil"
+    "dapps.o-passport.pages.home.editProfile": "Rubah Profil",
+    "dapps.o-marketlisting.pages.marketListingDetail.wednesday": "Rabu"
 }
