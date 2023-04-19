@@ -1001,5 +1001,6 @@
     "dapps.o-marketlisting.pages.mystore.settingsSaved": "Pengaturan Toko Tersimpan.",
     "common.market": "Pasar",
     "common.favorites": "Favorit",
-    "dapps.o-banking.pages.xDaiDetail.xDai": "xDai"
+    "dapps.o-banking.pages.xDaiDetail.xDai": "xDai",
+    "dapps.o-contacts.pages.contacts.noEntries": "Memuat .."
 }
