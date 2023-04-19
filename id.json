@@ -419,7 +419,7 @@
     "dapps.o-humanode.processes.processDefinition.showSuccess.params.title": "Berhasil",
     "dapps.o-marketlisting.molecules.categoryfilter.filter": "Pilih kategori",
     "dapps.o-marketlisting.molecules.categoryfilter.test": "TestFilter:",
-    "dapps.o-marketlisting.molecules.marketlistingframe.sortby": "Sort by:",
+    "dapps.o-marketlisting.molecules.marketlistingframe.sortby": "Urutkan:",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.alphabetical": "Name",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.mostpopular": "Paling populer",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.nearest": "Nearest",
