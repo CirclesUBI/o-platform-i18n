@@ -29,7 +29,7 @@
     "common.selectAValue": "Select ..",
     "common.sendMoney": "Kirim Uang",
     "common.settings": "Pengaturan",
-    "common.sunday": "Sunday",
+    "common.sunday": "Minggu",
     "common.support": "Bantuan",
     "common.supportUrl": "https://discord.gg/4DBbRCMnFZ",
     "common.termsOfService": "Persyaratan Layanan",
@@ -995,5 +995,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.tuesday": "Selasa",
     "dapps.o-marketlisting.pages.marketListingDetail.thursday": "Kamis",
     "dapps.o-marketlisting.pages.marketListingDetail.friday": "Jumat",
-    "dapps.o-marketlisting.pages.marketListingDetail.saturday": "Sabtu"
+    "dapps.o-marketlisting.pages.marketListingDetail.saturday": "Sabtu",
+    "dapps.o-marketlisting.pages.marketListingDetail.sunday": "Minggu"
 }
