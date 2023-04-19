@@ -827,7 +827,7 @@
     "dapps.o-passport.processes.logout.editorContent.title": "Keluar",
     "dapps.o-passport.processes.upsertIdentity.editorContent.city.description": "\nTingkatkan kota Anda di peringkat pendapatan dasar",
     "dapps.o-passport.processes.upsertIdentity.editorContent.city.placeholder": "Nama keluarga",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.city.submitButtonText": "Kirim suara Anda",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.city.submitButtonText": "Simpan",
     "dapps.o-passport.processes.upsertIdentity.editorContent.city.title": "Masukan lokasi Anda",
     "dapps.o-passport.processes.upsertIdentity.editorContent.dream.description": "Apa yang akan Anda lakukan berbeda dalam hidup Anda dengan penghasilan dasar bulanan?",
     "dapps.o-passport.processes.upsertIdentity.editorContent.dream.placeholder": "Saya akan ...",
