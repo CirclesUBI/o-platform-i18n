@@ -1070,5 +1070,6 @@
     "dapps.o-contacts.pages.profile.members": "Shop Owner",
     "common.inAppError": "You are using an in-app browser which is not supported in our app ! Please use a native browser from  your device instead.",
     "common.open": "Open",
-    "common.closed": "Closed"
+    "common.closed": "Closed",
+    "dapps.o-marketlisting.pages.marketListingDetail.closes": "Closes"
 }
