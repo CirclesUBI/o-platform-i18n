@@ -844,7 +844,7 @@
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.description": "Tunjukan kepada dunia siapa Anda!",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.placeholder": "Unggah foto",
     "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.submitButtonText": "Simpan foto",
-    "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.title": "Foto profil",
+    "dapps.o-passport.processes.upsertIdentity.editorContent.imageView.title": "Foto Profil",
     "dapps.o-passport.processes.upsertIdentity.editorContent.info.title": "your lifetime is precious",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.description": "Tampilkan nama lengkap Anda di profil Anda untuk menjadikan Anda lebih layak dipercaya.",
     "dapps.o-passport.processes.upsertIdentity.editorContent.lastName.placeholder": "Nama belakang",
@@ -989,5 +989,6 @@
     "dapps.o-banking.atoms.bankingHeader.balance": "Saldo",
     "shared.actionMenu.myprofiles": "Profil Saya",
     "shared.actionMenu.quickactions": "Pintasan",
-    "dapps.o-passport.pages.home.editShop": "Sunting Toko"
+    "dapps.o-passport.pages.home.editShop": "Sunting Toko",
+    "dapps.o-passport.pages.home.editProfile": "Rubah Profil"
 }
