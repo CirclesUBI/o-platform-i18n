@@ -75,7 +75,7 @@
     "dapps.o-banking.pages.transactionDetail.fullAmountCrc": "Jumlah total dalam CRC",
     "dapps.o-banking.pages.transactionDetail.paymentPath": "Jalur Pembayaran",
     "dapps.o-banking.pages.transactionDetail.to": "ke",
-    "dapps.o-banking.pages.transactionDetail.transactionHash": "ID unik transaksi",
+    "dapps.o-banking.pages.transactionDetail.transactionHash": "ID unik",
     "dapps.o-banking.pages.transactionDetail.ubi": "Universal Basic Income",
     "dapps.o-banking.processes.setTrust.checkTrustLimit.contextMessage": "'As soon as you trust yourself, you will know how to live.' --Johann Wolfgang von Goethe",
     "dapps.o-banking.processes.setTrust.editorContent.confirm.submitButtonText": "Konfirmasi",
@@ -1003,5 +1003,6 @@
     "common.favorites": "Favorit",
     "dapps.o-banking.pages.xDaiDetail.xDai": "xDai",
     "dapps.o-contacts.pages.contacts.noEntries": "Memuat ..",
-    "common.notifications": "Notifikasi"
+    "common.notifications": "Notifikasi",
+    "dapps.o-notifications.pages.transactions.txs": "Exch"
 }
