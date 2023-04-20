@@ -101,7 +101,7 @@
     "dapps.o-banking.processes.transfer.editorContent.currency.submitButtonText": "Submit",
     "dapps.o-banking.processes.transfer.editorContent.currency.title": "Enter the amount of Circles you want to send",
     "dapps.o-banking.processes.transfer.editorContent.message.submitButtonText": "Submit",
-    "dapps.o-banking.processes.transfer.editorContent.message.title": "Transfer Message",
+    "dapps.o-banking.processes.transfer.editorContent.message.title": "Write Message",
     "dapps.o-banking.processes.transfer.editorContent.recipient.placeholder": "Recipient",
     "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.description": "Here you can enter the recipients safe address directly.",
     "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.placeholder": "Safe Address",
