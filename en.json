@@ -377,7 +377,7 @@
     "dapps.o-homepage.components.survey.informedConsent.thirdCheckbox": "I understand that when the Circles research project end, I may not be able to use Circles Points that remain in my Circles Wallet.",
     "dapps.o-homepage.components.survey.informedConsent.title.bottom": "If you have any questions, please reach out to a local circles representative.",
     "dapps.o-homepage.components.survey.informedConsent.title.middle": "If you agree, tap the boxes to tick.",
-    "dapps.o-homepage.components.survey.informedConsent.title.top": "Before you can use this app you need to agree to the following points.",
+    "dapps.o-homepage.components.survey.informedConsent.title.top": "Before you can use this app, you need to agree to the following points.",
     "dapps.o-homepage.components.survey.signupInvitation.noInvitationCode": "We don't seem to have your Invite. <br/>Please go back and scan the invitation QR Code.",
     "dapps.o-homepage.components.survey.signupInvitation.success.subtitle": "You can now sign up",
     "dapps.o-homepage.components.survey.subtitle": "Universal Basic Income",
