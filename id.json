@@ -904,7 +904,7 @@
     "shared.atoms.error.ifTheProblemPersists": "jika masalah masih terus berlanjut",
     "shared.atoms.error.noErrorDetailsAvailable": "Tidak ada detail kesalahan yang tersedia. Lihat konsol untuk lebih jelasnya.",
     "shared.atoms.error.pleaseTryToReload": "\nSilakan coba muat ulang halaman atau hubungi kami di Discord",
-    "shared.atoms.error.processEncounteredAnError": "Proses mengalami kesalahan",
+    "shared.atoms.error.processEncounteredAnError": "[ ERROR ]",
     "shared.atoms.facetec.enrollmentProcess.noSessionId": "No sessionId",
     "shared.atoms.facetec.enrollmentProcess.noSessionResult": "No _sessionResult.",
     "shared.atoms.facetec.enrollmentProcess.sessionWasNotCompleted": "Sesi tidak berhasil diselesaikan, dibatalkan. Status Sesi:",
