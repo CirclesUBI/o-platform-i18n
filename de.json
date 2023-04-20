@@ -904,7 +904,7 @@
     "shared.atoms.error.ifTheProblemPersists": "falls der Fehler weiterhin auftritt",
     "shared.atoms.error.noErrorDetailsAvailable": " Es sind keine Fehler verfügbar. Weitere Informationen findest Du in der Konsole.",
     "shared.atoms.error.pleaseTryToReload": "Bitte versuche, die Seite neu zu laden oder kontaktiere uns auf Discord",
-    "shared.atoms.error.processEncounteredAnError": "Der Prozess hat einen Fehler gefunden",
+    "shared.atoms.error.processEncounteredAnError": "[ FEHLER ]",
     "shared.atoms.facetec.enrollmentProcess.noSessionId": "Keine sessionId",
     "shared.atoms.facetec.enrollmentProcess.noSessionResult": "Kein _sessionResult_",
     "shared.atoms.facetec.enrollmentProcess.sessionWasNotCompleted": "Sitzung wurde nicht erfolgreich abgeschlossen, abgebrochen. Sitzungsstatus:",
