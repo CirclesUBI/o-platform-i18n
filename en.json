@@ -904,7 +904,7 @@
     "shared.atoms.error.ifTheProblemPersists": " if the problem persists",
     "shared.atoms.error.noErrorDetailsAvailable": " No error details available. See the console for more details.",
     "shared.atoms.error.pleaseTryToReload": "Please try to reload the page or contact us on Discord ",
-    "shared.atoms.error.processEncounteredAnError": "The Process encountered an error",
+    "shared.atoms.error.processEncounteredAnError": "[ ERROR ]",
     "shared.atoms.facetec.enrollmentProcess.noSessionId": "No sessionId",
     "shared.atoms.facetec.enrollmentProcess.noSessionResult": "No _sessionResult.",
     "shared.atoms.facetec.enrollmentProcess.sessionWasNotCompleted": "Session was not completed successfully, cancelling.  Session Status: ",
