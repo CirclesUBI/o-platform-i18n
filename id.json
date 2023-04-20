@@ -1009,5 +1009,6 @@
     "dapps.o-notifications.pages.redeemedInvitations.invitations": "Undangan",
     "common.trustEvents": "Kepercayaan",
     "common.invitations": "Undangan",
-    "dapps.o-banking.molecules.trustChangeConfirmation.now": "sekarang"
+    "dapps.o-banking.molecules.trustChangeConfirmation.now": "sekarang",
+    "dapps.o-contacts.pages.profile.you": "Anda"
 }
