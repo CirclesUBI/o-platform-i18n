@@ -602,7 +602,7 @@
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.connectOrCreate.options.newSafe": "Create new",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.couldNotUpdate": "Couldn't update the profile with the generated eoa: ${result}",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.errorWhileDeploying": "An error occurred while deploying your safe:",
-    "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.newSafe.message": "Please wait while we create your Safe on the Blockchain.",
+    "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.newSafe.message": "Please wait while we create your Safe on the blockchain.",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.privateKeyNotUnlocked": "The private key is not unlocked",
     "dapps.o-onboarding.processes.connectSafe.addNewOwner": "Adding new owner ..",
     "dapps.o-onboarding.processes.connectSafe.addNewOwnerInfo": "We will add a new owner to your safe. No worries we keep your old key as owner too.",
