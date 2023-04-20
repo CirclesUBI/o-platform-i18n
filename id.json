@@ -235,7 +235,7 @@
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.submitButtonText": "Simpan",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.title": "Apa nama toko Anda?",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.signupOrganisation.notUnlockedKey": "The private key is not unlocked",
-    "dapps.o-coop.processes.createOrganisations.deployOrganisation.progress": "Deploying your new organization on the blockchain...  ",
+    "dapps.o-coop.processes.createOrganisations.deployOrganisation.progress": "Menyiapkan toko Anda dalam blockchain...  ",
     "dapps.o-coop.processes.createOrganisations.noEoa": "Anda tidak memiliki eoa",
     "dapps.o-coop.processes.createOrganisations.notLoggedOn": "Anda belum masuk",
     "dapps.o-coop.processes.createOrganisations.notUnlockedPrivateKey": "Kunci pribadi tidak terbuka",
