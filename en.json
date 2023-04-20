@@ -83,7 +83,7 @@
     "dapps.o-banking.processes.setTrust.editorContent.limit.submitButtonText": "Submit",
     "dapps.o-banking.processes.setTrust.editorContent.limit.title": "Enter the amount of Circles you want to send",
     "dapps.o-banking.processes.setTrust.editorContent.message.submitButtonText": "Submit",
-    "dapps.o-banking.processes.setTrust.editorContent.message.title": "Transfer Message",
+    "dapps.o-banking.processes.setTrust.editorContent.message.title": "Write Message",
     "dapps.o-banking.processes.setTrust.editorContent.recipient.placeholder": "Select",
     "dapps.o-banking.processes.setTrust.editorContent.recipient.submitButtonText": "Set Trust",
     "dapps.o-banking.processes.setTrust.editorContent.recipient.title": "Select the person you want to trust",
