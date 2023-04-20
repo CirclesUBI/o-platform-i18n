@@ -103,7 +103,7 @@
     "dapps.o-banking.processes.transfer.editorContent.message.submitButtonText": "Kirim",
     "dapps.o-banking.processes.transfer.editorContent.message.title": "Tulis Pesan",
     "dapps.o-banking.processes.transfer.editorContent.recipient.placeholder": "Penerima",
-    "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.description": "\nDi sini Anda dapat memasukkan alamat aman penerima secara langsung.",
+    "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.description": "Anda dapat memasukkan alamat penerima secara langsung.",
     "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.placeholder": "Pengenal unik Anda",
     "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.submitButtonText": "Lanjut",
     "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.title": "Masukkan pengenal unik penerima",
