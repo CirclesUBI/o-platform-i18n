@@ -96,7 +96,7 @@
     "dapps.o-banking.processes.showProfile.success.return": "yeah!",
     "dapps.o-banking.processes.showTransaction.success.return": "yeah!",
     "dapps.o-banking.processes.transfer.checkAmount.contextMessages": "Jumlah yang dipilih melebihi jumlah maksimum yang dapat ditransfer dari {formattedMax}.",
-    "dapps.o-banking.processes.transfer.editorContent.confirm.submitButtonText": "Kirim Uang",
+    "dapps.o-banking.processes.transfer.editorContent.confirm.submitButtonText": "Kirim Circles",
     "dapps.o-banking.processes.transfer.editorContent.confirm.title": "Anda akan mengirimkan",
     "dapps.o-banking.processes.transfer.editorContent.currency.submitButtonText": "Kirimkan",
     "dapps.o-banking.processes.transfer.editorContent.currency.title": "Silakan masukkan jumlah uang di dalam Euro",
