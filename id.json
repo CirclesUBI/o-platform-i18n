@@ -88,7 +88,7 @@
     "dapps.o-banking.processes.setTrust.editorContent.recipient.submitButtonText": "Tetapkan Kepercayaan",
     "dapps.o-banking.processes.setTrust.editorContent.recipient.title": "Pilih orang yang ingin Anda percaya",
     "dapps.o-banking.processes.setTrust.editorContent.success.submitButtonText": "Tutup",
-    "dapps.o-banking.processes.setTrust.editorContent.success.title": "Proses mempercayai berhasil",
+    "dapps.o-banking.processes.setTrust.editorContent.success.title": "Berhasil!",
     "dapps.o-banking.processes.setTrust.setTrust.message": "Memperbarui kepercayaan...",
     "dapps.o-banking.processes.setTrust.showSuccess.html": "<p>Kepercayaan berubah</p>",
     "dapps.o-banking.processes.setTrust.success.return": "yeah!",
