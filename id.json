@@ -1002,5 +1002,6 @@
     "common.market": "Pasar",
     "common.favorites": "Favorit",
     "dapps.o-banking.pages.xDaiDetail.xDai": "xDai",
-    "dapps.o-contacts.pages.contacts.noEntries": "Memuat .."
+    "dapps.o-contacts.pages.contacts.noEntries": "Memuat ..",
+    "common.notifications": "Notifikasi"
 }
