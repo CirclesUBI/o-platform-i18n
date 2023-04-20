@@ -384,7 +384,7 @@
     "dapps.o-homepage.components.survey.success": "BERHASIL",
     "dapps.o-homepage.components.survey.title.bottom": "CIRCLESUBI.ID",
     "dapps.o-homepage.components.survey.title.top": "Selamat Datang di",
-    "dapps.o-homepage.components.survey.userDataCollection.bornOn": "I was born on (dd/mm/yyyy):",
+    "dapps.o-homepage.components.survey.userDataCollection.bornOn": "Saya lahir pada (hh/bb/tttt):",
     "dapps.o-homepage.components.survey.userDataCollection.gender": "My gender is:",
     "dapps.o-homepage.components.survey.userDataCollection.info": "You haven't yet finished filling in some required information.",
     "dapps.o-homepage.components.survey.userDataCollection.myBusinessOffers": "My business offers:",
