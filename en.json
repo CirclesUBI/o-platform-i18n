@@ -1056,7 +1056,7 @@
     "common.notifications": "Notifications",
     "dapps.o-banking.processes.setTrust.notAPersonalProfile": "You can not trust Organisations, only Personal Profiles.",
     "dapps.o-passport.pages.home.editProfile": "Edit Profile",
-    "dapps.o-marketlisting.pages.mystore.settingsSaved": "Shop Settings Saved.",
+    "dapps.o-marketlisting.pages.mystore.settingsSaved": "Shop settings saved",
     "dapps.common.cannotSendToYourself": "You can't send to yourself",
     "dapps.o-banking.processes.transfer.findTransferPath.tryWithSmallerAmount": "Couldn't sent the requested amount, please retry with a smaller amount",
     "shared.quickActions.myprofiles": "THIS STRING IS NOT USED",
