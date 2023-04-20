@@ -1006,5 +1006,7 @@
     "common.notifications": "Notifikasi",
     "dapps.o-notifications.pages.transactions.txs": "Exch",
     "dapps.o-notifications.pages.trusts.trusts": "Kepercayaan",
-    "dapps.o-notifications.pages.redeemedInvitations.invitations": "Undangan"
+    "dapps.o-notifications.pages.redeemedInvitations.invitations": "Undangan",
+    "common.trustEvents": "Kepercayaan",
+    "common.invitations": "Undangan"
 }
