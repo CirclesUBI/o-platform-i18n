@@ -1012,5 +1012,7 @@
     "dapps.o-banking.molecules.trustChangeConfirmation.now": "sekarang",
     "dapps.o-contacts.pages.profile.you": "Anda",
     "dapps.o-contacts.pages.scanToTrust.alreadyTrusting": "Anda sudah percaya pengguna ini.",
-    "dapps.o-contacts.pages.scanToTrust.cantTrustYourself": "Anda tidak dapat percaya diri sendiri"
+    "dapps.o-contacts.pages.scanToTrust.cantTrustYourself": "Anda tidak dapat percaya diri sendiri",
+    "dapps.o-contacts.pages.scanToTrust.scanProfileQR": "Pindai kode QR Profil untuk percaya",
+    "dapps.o-contacts.pages.profile.members": "Pemilik Toko"
 }
