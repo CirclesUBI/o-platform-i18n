@@ -225,7 +225,7 @@
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.deployOrganisation.needFullAccountSetup": "Du benötigst ein vollständig eingerichtetes Circles-Konto, um eine Organisation zu erstellen.",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.deployOrganisation.notUnlockedKey": "Der private key ist nicht freigeschaltet",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.description": "BESCHREIBUNG",
-    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.maximumChars": "Die maximal zulässige Anzahl von Zeichen beträgt 150.",
+    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.maximumChars": "Die maximal zulässige Anzahl von Zeichen beträgt 250.",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.placeholder": "Beschreibung",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.submitButtonText": "Speichern",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.title": "Beschreibe deine Organisation in wenigen Sätzen?",
