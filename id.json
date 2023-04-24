@@ -986,7 +986,7 @@
     "dapps.o-homepage.components.survey.userDataCollection.inviteValid": "Undangan Tervalidasi",
     "dapps.o-homepage.components.survey.userDataCollection.scanInviteNow": "Pindai Undangan",
     "dapps.o-banking.molecules.trustChangeConfirmation.youTrust": "Kamu percaya",
-    "dapps.o-banking.atoms.bankingHeader.balance": "Saldo",
+    "dapps.o-banking.atoms.bankingHeader.balance": "Poin",
     "shared.actionMenu.myprofiles": "Profil Saya",
     "shared.actionMenu.quickactions": "Menu Pintas",
     "dapps.o-passport.pages.home.editShop": "Sunting Toko",
