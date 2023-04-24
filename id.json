@@ -1025,5 +1025,6 @@
     "common.closed": "Tutup",
     "dapps.o-banking.atoms.transferConfirmation.to": "ke",
     "dapps.o-onboarding.processes.unlockKey.unlockKey.invalidPin": "PIN salah",
-    "dapps.o-passport.pages.home.addNewShop": "Buka Toko"
+    "dapps.o-passport.pages.home.addNewShop": "Buka Toko",
+    "dapps.o-banking.molecules.trustChangeConfirmation.youRemovedTrust": "Anda memutus kepercayaan dengan"
 }
