@@ -111,7 +111,7 @@
     "dapps.o-banking.processes.transfer.editorContent.recipient.title": "Pilih penerima dari Poin Circles Anda",
     "dapps.o-banking.processes.transfer.editorContent.success.submitButtonText": "Tutup",
     "dapps.o-banking.processes.transfer.editorContent.success.title": "Terkirim!",
-    "dapps.o-banking.processes.transfer.findMaxFlow.entry.message": "Menghitung jumlah transfer maksimum ..",
+    "dapps.o-banking.processes.transfer.findMaxFlow.entry.message": "Menghitung jumlah kirim maksimum ..",
     "dapps.o-banking.processes.transfer.findMaxFlow.invoke.error": "Tidak ada alamat penerima pada konteks ini",
     "dapps.o-banking.processes.transfer.findTransferPath.entry.message": "Menemukan jalur Anda ke penerima pembayaran ..",
     "dapps.o-banking.processes.transfer.findTransferPath.invoke": "Menemukan jalur Anda ke penerima pembayaran ..",
