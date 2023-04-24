@@ -690,7 +690,7 @@
     "dapps.o-onboarding.processes.registration.promptRegistration.yesPlease": "Ya, silahkan",
     "dapps.o-onboarding.processes.unlockKey.unlockKey.couldNotDecrypt": "Tidak dapat membuka kunci Anda. Sudahkah Anda memasukkan pin yang benar?",
     "dapps.o-onboarding.processes.unlockKey.unlockKey.dataSchemaRequired": "Harap masukkan pin enkripsi untuk melindungi kunci pribadi Anda.",
-    "dapps.o-onboarding.processes.unlockKey.unlockKey.enterDecryptionPinParams.description": "Pin akan digunakan untuk mendekripsi kunci pribadi Anda di perangkat Anda.",
+    "dapps.o-onboarding.processes.unlockKey.unlockKey.enterDecryptionPinParams.description": "Pin akan digunakan untuk membuka kunci pribadi Anda di perangkat ini.",
     "dapps.o-onboarding.processes.unlockKey.unlockKey.enterDecryptionPinParams.placeholder": "Masukkan pin",
     "dapps.o-onboarding.processes.unlockKey.unlockKey.enterDecryptionPinParams.submitButtonText": "Buka Kunci",
     "dapps.o-onboarding.processes.unlockKey.unlockKey.enterDecryptionPinParams.title": "Mohon masukkan PIN Anda",
