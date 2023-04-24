@@ -149,7 +149,7 @@
     "dapps.o-contacts.atoms.chatListCard.youWrote": "Anda menulis:",
     "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.icon": "mengirim poin",
     "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.ifIn": "Mengirim Anda",
-    "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.ifOut.to": "ke",
+    "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.ifOut.to": "untuk",
     "dapps.o-contacts.atoms.chatListItems.crcHubTransfer.getValues.ifOut.youSent": "Anda mengirim",
     "dapps.o-contacts.atoms.chatListItems.crcTrust.getValues.icon": "percaya",
     "dapps.o-contacts.atoms.chatListItems.crcTrust.getValues.trustedYou": "percaya Anda",
