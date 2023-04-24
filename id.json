@@ -593,7 +593,7 @@
     "dapps.o-marketplace.processes.upsertOffer.editorContent.title.placeholder": "Judul",
     "dapps.o-marketplace.processes.upsertOffer.editorContent.title.submitButtonText": "Lanjut",
     "dapps.o-marketplace.processes.upsertOffer.editorContent.title.title": "Judul",
-    "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.editorContent.connectOrCreate.description": "Buat baru atau impor akun Circles yang ada?",
+    "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.editorContent.connectOrCreate.description": "Buat akun baru atau masukan akun Circles yang sudah ada?",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.editorContent.connectOrCreate.title": "Persiapkan akun Anda",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.editorContent.info.description": "\nPada langkah selanjutnya, Anda dapat membuat akun Anda di teknologi blockchain ..",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.editorContent.info.submitButtonText": "Lanjut",
