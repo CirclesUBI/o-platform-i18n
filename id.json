@@ -1021,5 +1021,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.closed": "Tutup",
     "dapps.o-marketlisting.pages.marketListingDetail.loadingDetails'": "Memuat...",
     "dapps.o-marketlisting.pages.marketListingDetail.closes": "Tutup",
-    "dapps.o-marketlisting.pages.marketListingDetail.opens": "Buka"
+    "dapps.o-marketlisting.pages.marketListingDetail.opens": "Buka",
+    "common.closed": "Tutup"
 }
