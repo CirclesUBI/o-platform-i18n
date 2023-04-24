@@ -671,7 +671,7 @@
     "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.description": "PIN Anda akan mengenkripsi kunci pribadi di perangkat Anda. \nCATATAN: PIN tidak dapat menangkal peretasan yang cangih tapi mampu melindungi akun Anda dari peretasan sederhana. ",
     "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.placeholder": "Masukkan PIN",
     "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.stringRequired": "Harap masukkan PIN untuk melindungi kunci pribadi Anda.",
-    "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.submitButtonText": "Simpan kunci pribadi di perangkat gadget ini",
+    "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.submitButtonText": "Simpan PIN di perangkat ini",
     "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.title": "Atur PIN untuk melindungi akun Anda",
     "dapps.o-onboarding.processes.loginWithTorus.invalidPin": "PIN tidak valid",
     "dapps.o-onboarding.processes.loginWithTorus.loginOptions.apple.label": "Masuk dengan Apple ID",
