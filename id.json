@@ -425,7 +425,7 @@
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.nearest": "Nearest",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.newest": "Newest",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.oldest": "Oldest",
-    "dapps.o-marketlisting.pages.marketlisting.noentries": "Kosong",
+    "dapps.o-marketlisting.pages.marketlisting.noentries": "Tidak ada data untuk ditampilkan",
     "dapps.o-marketplace.atoms.offerCard.details": "Detail informasi",
     "dapps.o-marketplace.atoms.offerCard.pickUpOnly": "Pengambilan di Toko saja",
     "dapps.o-marketplace.atoms.transactionItemCard.sending": "Mengirimkan",
