@@ -1075,5 +1075,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.opens": "Opens",
     "common.cancel": "Cancel",
     "dapps.o-banking.processes.transfer.maximumAmount": "Maximum transferrable Amount to {name}:",
-    "shared.molecules.profileSwitcherBar.switchTo": "Switch to"
+    "shared.molecules.profileSwitcherBar.switchTo": "Switch to",
+    "common.banking": "Wallet"
 }
