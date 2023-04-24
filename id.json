@@ -663,7 +663,7 @@
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.onError": "Terjadi kesalahan berikut saat menebus undangan yang Anda klaim:",
     "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.description": "Harap pilih opsi masuk<br/> <small>Dengan memilih salah satu opsi di bawah, Anda menyetujui <a href='https://coda.io/@circlesland/terms' target='_blank' kami class='link' alt='privacy'>Persyaratan Layanan</a>.</small>",
     "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.title": "Selamat Datang di Circles",
-    "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.description": "Pin akan digunakan untuk mendekripsi kunci pribadi Anda di perangkat ini.",
+    "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.description": "Pin akan digunakan untuk membuka kunci pribadi Anda di perangkat ini.",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.placeholder": "Masukkan PIN",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.stringRequired": "Silakan masukkan PIN enkripsi untuk melindungi kunci pribadi Anda",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.submitButtonText": "Membuka kunci",
