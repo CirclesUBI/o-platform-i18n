@@ -1017,5 +1017,7 @@
     "dapps.o-contacts.pages.profile.members": "Pemilik Toko",
     "dapps.o-marketlisting.pages.marketListingDetail.monday": "Senin",
     "dapps.o-marketlisting.pages.marketListingDetail.openingHours": "Jam Buka",
-    "common.open": "Buka"
+    "common.open": "Buka",
+    "dapps.o-marketlisting.pages.marketListingDetail.closed": "Tutup",
+    "dapps.o-marketlisting.pages.marketListingDetail.loadingDetails'": "Memuat..."
 }
