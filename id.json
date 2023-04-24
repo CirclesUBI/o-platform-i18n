@@ -1022,5 +1022,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.loadingDetails'": "Memuat...",
     "dapps.o-marketlisting.pages.marketListingDetail.closes": "Tutup",
     "dapps.o-marketlisting.pages.marketListingDetail.opens": "Buka",
-    "common.closed": "Tutup"
+    "common.closed": "Tutup",
+    "dapps.o-banking.atoms.transferConfirmation.to": "ke"
 }
