@@ -100,7 +100,7 @@
     "dapps.o-banking.processes.transfer.editorContent.confirm.title": "Anda akan mengirim",
     "dapps.o-banking.processes.transfer.editorContent.currency.submitButtonText": "Kirim",
     "dapps.o-banking.processes.transfer.editorContent.currency.title": "Masukkan jumlah Circles yang ingin Anda kirim",
-    "dapps.o-banking.processes.transfer.editorContent.message.submitButtonText": "Kirim",
+    "dapps.o-banking.processes.transfer.editorContent.message.submitButtonText": "Simpan",
     "dapps.o-banking.processes.transfer.editorContent.message.title": "Tulis Pesan",
     "dapps.o-banking.processes.transfer.editorContent.recipient.placeholder": "Penerima",
     "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.description": "Anda dapat memasukkan alamat penerima secara langsung.",
