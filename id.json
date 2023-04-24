@@ -162,7 +162,7 @@
     "dapps.o-contacts.atoms.chatListItems.erc20Transfer.getValues.ifOut.tokensTo": "token untuk",
     "dapps.o-contacts.atoms.chatListItems.erc20Transfer.getValues.ifOut.youSent": "Anda mengirim",
     "dapps.o-contacts.atoms.chatListItems.invitationRedeemed.getValues.icon": "percaya",
-    "dapps.o-contacts.atoms.chatListItems.invitationRedeemed.getValues.invitationRedeemed.title": "menebus undangan Anda.",
+    "dapps.o-contacts.atoms.chatListItems.invitationRedeemed.getValues.invitationRedeemed.title": "memvalidasi undangan Anda.",
     "dapps.o-contacts.atoms.contactCard.isTrustingYou": "percaya Anda",
     "dapps.o-contacts.atoms.contactCard.mutualTrust": "saling percaya",
     "dapps.o-contacts.atoms.contactCard.notTrusted": "tidak dipercaya",
