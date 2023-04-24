@@ -668,7 +668,7 @@
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.stringRequired": "Silakan masukkan PIN enkripsi untuk melindungi kunci pribadi Anda",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.submitButtonText": "Membuka kunci",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.title": "Masukkan PIN Anda",
-    "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.description": "Pin akan digunakan untuk mengenkripsi kunci pribadi Anda di perangkat Anda. \nCATATAN: Hal ini tidak akan membantu mengakal pencurian PIN dengan teknologi canggih, tetapi mencegah pencurian biasa.",
+    "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.description": "PIN Anda akan mengenkripsi kunci pribadi di perangkat Anda. \nCATATAN: PIN tidak dapat menangkal peretasan yang cangih tapi mampu melindungi akun Anda dari peretasan sederhana. ",
     "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.placeholder": "Masukkan PIN",
     "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.stringRequired": "Harap masukkan PIN untuk melindungi kunci pribadi Anda.",
     "dapps.o-onboarding.processes.loginWithTorus.enterEncryptionPinParams.submitButtonText": "Simpan kunci pribadi di perangkat gadget ini",
