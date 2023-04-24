@@ -985,5 +985,6 @@
     "dapps.o-marketlisting.pages.mystore.select-category": "Kategorieauswahl",
     "common.close": "Schließen",
     "common.save": "Save",
-    "dapps.common.googlemaps.viewonGoogleMaps": "Auf Google Maps ansehen"
+    "dapps.common.googlemaps.viewonGoogleMaps": "Auf Google Maps ansehen",
+    "shared.molecules.profileSwitcherBar.switchTo": "Wechseln zu"
 }
