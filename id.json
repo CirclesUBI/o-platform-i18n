@@ -1019,5 +1019,7 @@
     "dapps.o-marketlisting.pages.marketListingDetail.openingHours": "Jam Buka",
     "common.open": "Buka",
     "dapps.o-marketlisting.pages.marketListingDetail.closed": "Tutup",
-    "dapps.o-marketlisting.pages.marketListingDetail.loadingDetails'": "Memuat..."
+    "dapps.o-marketlisting.pages.marketListingDetail.loadingDetails'": "Memuat...",
+    "dapps.o-marketlisting.pages.marketListingDetail.closes": "Tutup",
+    "dapps.o-marketlisting.pages.marketListingDetail.opens": "Buka"
 }
