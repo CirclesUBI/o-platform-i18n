@@ -1077,5 +1077,6 @@
     "dapps.o-banking.processes.transfer.maximumAmount": "Maximum Circles Point to send to {name}:",
     "shared.molecules.profileSwitcherBar.switchTo": "Switch to",
     "common.banking": "Wallet",
-    "common.passport": "Passport"
+    "common.passport": "Passport",
+    "common.login.forgotYourPin": "Forgot your Pin?"
 }
