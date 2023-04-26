@@ -1083,5 +1083,6 @@
     "common.whatsappInviteText": "Hey, i'd like to invite you to circlesland. Check it out",
     "dapps.banking.pages.transationDetail.received": "received",
     "dapps.banking.pages.transationDetail.sent": "sent",
-    "common.timeCircles": "TimeCircles"
+    "common.timeCircles": "TimeCircles",
+    "dapps.banking.atoms.assetCard.different": "different"
 }
