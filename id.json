@@ -1030,5 +1030,6 @@
     "dapps.o-banking.processes.setTrust.setTrust.gettingProfile": "Mencari profil ..",
     "shared.molecules.profileSwitcherBar.switchTo": "Switch to",
     "common.passport": "Profil",
-    "common.banking": "Dompet"
+    "common.banking": "Dompet",
+    "dapps.o-banking.processes.transfer.maximumAmount": "Maksimal Poin Circles untuk dikirim ke {name}:"
 }
