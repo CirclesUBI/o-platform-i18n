@@ -1079,5 +1079,6 @@
     "common.banking": "Wallet",
     "common.passport": "Passport",
     "common.login.forgotYourPin": "Forgot your Pin?",
-    "shared.molecules.lists.eventlist.noEntries": "No entries"
+    "shared.molecules.lists.eventlist.noEntries": "No entries",
+    "common.whatsappInviteText": "Hey, i'd like to invite you to circlesland. Check it out"
 }
