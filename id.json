@@ -1033,5 +1033,6 @@
     "common.banking": "Dompet",
     "dapps.o-banking.processes.transfer.maximumAmount": "Maksimal Poin Circles untuk dikirim ke {name}:",
     "common.googlemaps.locationService.loadingLocation": "Memuat lokasi Anda...",
-    "common.login.forgotYourPin": "Forgot your Pin?"
+    "common.login.forgotYourPin": "Forgot your Pin?",
+    "shared.molecules.lists.eventlist.noEntries": "No entries"
 }
