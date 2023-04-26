@@ -1078,5 +1078,6 @@
     "shared.molecules.profileSwitcherBar.switchTo": "Switch to",
     "common.banking": "Wallet",
     "common.passport": "Passport",
-    "common.login.forgotYourPin": "Forgot your Pin?"
+    "common.login.forgotYourPin": "Forgot your Pin?",
+    "shared.molecules.lists.eventlist.noEntries": "No entries"
 }
