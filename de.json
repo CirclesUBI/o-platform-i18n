@@ -987,5 +987,6 @@
     "common.save": "Save",
     "dapps.common.googlemaps.viewonGoogleMaps": "Auf Google Maps ansehen",
     "shared.molecules.profileSwitcherBar.switchTo": "Wechseln zu",
-    "common.banking": "Wallet"
+    "common.banking": "Wallet",
+    "common.login.forgotYourPin": "Forgot your Pin?"
 }
