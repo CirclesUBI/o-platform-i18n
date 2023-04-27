@@ -1046,5 +1046,6 @@
     "common.timeCircles": "Circles Individu",
     "dapps.banking.atoms.assetCard.different": "different Individual",
     "common.share": "Bagikan",
-    "dapps.o-banking.processes.transfer.sendingCircles": "Sending Circles..."
+    "dapps.o-banking.processes.transfer.sendingCircles": "Sending Circles...",
+    "common.shareProfile": "Bagikan Profil"
 }
