@@ -1047,5 +1047,6 @@
     "dapps.banking.atoms.assetCard.different": "aset",
     "common.share": "Bagikan",
     "dapps.o-banking.processes.transfer.sendingCircles": "Sending Circles...",
-    "common.shareProfile": "Bagikan Profil"
+    "common.shareProfile": "Bagikan Profil",
+    "dapps.o-banking.transfer.clickToEnterSafeAddress": "Pilih profil untuk lanjut"
 }
