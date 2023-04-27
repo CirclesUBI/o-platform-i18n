@@ -659,7 +659,7 @@
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.editorContent.waitUntilRedeemed.submitButtonText": "Coba lagi",
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.editorContent.waitUntilRedeemed.title": "Harap Menunggu",
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.error": "Tidak dapat menebus undangan: {contextMessages}",
-    "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.message": "Memvalidasi undangan, harap tunggu...",
+    "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.message": "Memvalidasi undangan, harap tunggu ..",
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.onError": "Terjadi kesalahan berikut saat menebus undangan yang Anda klaim:",
     "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.description": "Harap pilih opsi masuk<br/> <small>Dengan memilih salah satu opsi di bawah, Anda menyetujui <a href='https://coda.io/@circlesland/terms' target='_blank' kami class='link' alt='privacy'>Persyaratan Layanan</a>.</small>",
     "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.title": "Selamat Datang di Circles",
