@@ -1087,5 +1087,6 @@
     "dapps.banking.atoms.assetCard.different": "different",
     "dapps.o-homepage.components.survey.userDataCollection.selectDate": "Select Date",
     "dapps.o-homepage.components.survey.userDataCollection.selectGender": "Select Gender",
-    "dapps.o-homepage.components.survey.userDataCollection.selectVillage": "Select your Village"
+    "dapps.o-homepage.components.survey.userDataCollection.selectVillage": "Select your Village",
+    "common.share": "Share"
 }
