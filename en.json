@@ -1088,5 +1088,6 @@
     "dapps.o-homepage.components.survey.userDataCollection.selectDate": "Select date",
     "dapps.o-homepage.components.survey.userDataCollection.selectGender": "Select gender",
     "dapps.o-homepage.components.survey.userDataCollection.selectVillage": "Select your village",
-    "common.share": "Share"
+    "common.share": "Share",
+    "dapps.o-banking.transfer.clickToEnterSafeAddress": "Click to enter Circles Safe Address"
 }
