@@ -1043,7 +1043,7 @@
     "dapps.o-homepage.components.survey.userDataCollection.selectDate": "Select Date",
     "dapps.o-homepage.components.survey.userDataCollection.selectGender": "Select Gender",
     "dapps.o-homepage.components.survey.userDataCollection.selectVillage": "Select your Village",
-    "common.timeCircles": "TimeCircles",
-    "dapps.banking.atoms.assetCard.different": "different",
+    "common.timeCircles": "Circles",
+    "dapps.banking.atoms.assetCard.different": "different Individual",
     "common.share": "Bagikan"
 }
