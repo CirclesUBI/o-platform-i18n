@@ -661,7 +661,7 @@
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.error": "Eine Einladung konnte nicht eingelöst werden: {contextMessages}",
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.message": "Bitte warten, verarbeite Einladung...",
     "dapps.o-onboarding.processes.invitation.promptRedeemInvitation.redeemInvitation.onError": "Beim Einlösen Deiner beanspruchten Einladung ist der folgende Fehler aufgetreten:",
-    "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.description": "Bitte wähle eine Anmeldeoption<br/> <small>Mit der Auswahl der Anmeldeoption, stimmst Du unseren <a href='https://coda.io/@circlesland/terms' target='_blank' class='link' alt='privacy'>Nutzungsbedingungen</a> zu.</small> ",
+    "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.description": "Bitte wähle eine Anmeldeoption",
     "dapps.o-onboarding.processes.loginWithTorus.chooseFlowParams.title": "Willkommen auf Circles Land",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.description": "Der PIN wird genutzt, um Deinen private key auf deinem Gerät zu entschlüsseln.",
     "dapps.o-onboarding.processes.loginWithTorus.enterDecryptionPinParams.placeholder": "Pin eingeben",
