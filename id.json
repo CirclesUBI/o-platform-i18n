@@ -1038,5 +1038,6 @@
     "common.whatsappInviteText": "Halo! Saya ingin mengundang Anda ke Circles.",
     "dapps.o-banking.processes.transfer.findTransferPath.tryWithSmallerAmount": "Hubungan kerpercayaan Anda tidak mencukupi. Saling percaya di dalam aplikasi terlebih dahulu agar dapat melakukan pertukaran ini.",
     "dapps.banking.pages.transationDetail.received": "diterima",
-    "dapps.banking.pages.transationDetail.sent": "terkirim"
+    "dapps.banking.pages.transationDetail.sent": "terkirim",
+    "common.cancel": "Tutup"
 }
