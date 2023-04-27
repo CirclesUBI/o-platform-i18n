@@ -1028,7 +1028,7 @@
     "dapps.o-passport.pages.home.addNewShop": "Buka Toko",
     "dapps.o-banking.molecules.trustChangeConfirmation.youRemovedTrust": "Anda memutus kepercayaan dengan",
     "dapps.o-banking.processes.setTrust.setTrust.gettingProfile": "Mencari profil ..",
-    "shared.molecules.profileSwitcherBar.switchTo": "Switch to",
+    "shared.molecules.profileSwitcherBar.switchTo": "Beralih ke",
     "common.passport": "Profil",
     "common.banking": "Dompet",
     "dapps.o-banking.processes.transfer.maximumAmount": "Maksimal Poin Circles untuk dikirim ke {name}:",
