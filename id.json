@@ -95,7 +95,7 @@
     "dapps.o-banking.processes.showAssetDetail.success.return": "asik!",
     "dapps.o-banking.processes.showProfile.success.return": "Sukses!",
     "dapps.o-banking.processes.showTransaction.success.return": "asik!",
-    "dapps.o-banking.processes.transfer.checkAmount.contextMessages": "Hubungan kepercayaan Anda tidak mencukupi untuk melakukan pertukaran ini. Saling percaya di aplikasi agar bisa melakukan pertukaran ini {formattedMax}.",
+    "dapps.o-banking.processes.transfer.checkAmount.contextMessages": "Jumlah maksimal Poin Circles yang dapat Anda kirim ke penerima ini sekarang adalah: {formattedMax}.",
     "dapps.o-banking.processes.transfer.editorContent.confirm.submitButtonText": "Kirim Circles",
     "dapps.o-banking.processes.transfer.editorContent.confirm.title": "Anda akan mengirim",
     "dapps.o-banking.processes.transfer.editorContent.currency.submitButtonText": "Simpan",
