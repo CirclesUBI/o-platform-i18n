@@ -1058,7 +1058,7 @@
     "dapps.o-passport.pages.home.editProfile": "Edit Profile",
     "dapps.o-marketlisting.pages.mystore.settingsSaved": "Shop settings saved",
     "dapps.common.cannotSendToYourself": "You can't send to yourself",
-    "dapps.o-banking.processes.transfer.findTransferPath.tryWithSmallerAmount": "Couldn't sent the requested amount, please retry with a smaller amount",
+    "dapps.o-banking.processes.transfer.findTransferPath.tryWithSmallerAmount": "Your trust connections are not sufficient to do this exchange. Trust each other on the App first so you can do this exchange.",
     "shared.quickActions.myprofiles": "THIS STRING IS NOT USED",
     "shared.actionMenu.myprofiles": "My Profiles",
     "shared.actionMenu.quickactions": "Quick Actions",
