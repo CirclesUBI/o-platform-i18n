@@ -1045,5 +1045,6 @@
     "dapps.o-homepage.components.survey.userDataCollection.selectVillage": "Pilih desa",
     "common.timeCircles": "Circles",
     "dapps.banking.atoms.assetCard.different": "different Individual",
-    "common.share": "Bagikan"
+    "common.share": "Bagikan",
+    "dapps.o-banking.processes.transfer.sendingCircles": "Sending Circles..."
 }
