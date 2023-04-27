@@ -1039,5 +1039,8 @@
     "dapps.o-banking.processes.transfer.findTransferPath.tryWithSmallerAmount": "Hubungan kerpercayaan Anda tidak mencukupi. Saling percaya di dalam aplikasi terlebih dahulu agar dapat melakukan pertukaran ini.",
     "dapps.banking.pages.transationDetail.received": "diterima",
     "dapps.banking.pages.transationDetail.sent": "terkirim",
-    "common.cancel": "Tutup"
+    "common.cancel": "Tutup",
+    "dapps.o-homepage.components.survey.userDataCollection.selectDate": "Select Date",
+    "dapps.o-homepage.components.survey.userDataCollection.selectGender": "Select Gender",
+    "dapps.o-homepage.components.survey.userDataCollection.selectVillage": "Select your Village"
 }
