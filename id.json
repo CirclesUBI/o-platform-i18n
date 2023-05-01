@@ -602,7 +602,7 @@
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.connectOrCreate.options.newSafe": "Buat baru",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.couldNotUpdate": "Tidak dapat memperbarui profil dengan eoa yang dihasilkan: ${result}",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.errorWhileDeploying": "Terjadi kesalahan saat menerapkan simpanan Anda:",
-    "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.newSafe.message": "Harap tunggu sementara kami membuat akun Anda di blockchain.",
+    "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.newSafe.message": "Harap tunggu sementara kami membuat akun Anda dalam blockchain.",
     "dapps.o-onboarding.processes.connectOrCreate.promptConnectOrCreate.processDefinition.privateKeyNotUnlocked": "Kunci pribadi tidak dibuka",
     "dapps.o-onboarding.processes.connectSafe.addNewOwner": "Menambah pemilik baru..",
     "dapps.o-onboarding.processes.connectSafe.addNewOwnerInfo": "Kami akan menambahkan pemilik baru ke penyimpanan Anda. Jangan khawatir, kami juga menyimpan kunci lama Anda sebagai pemilik.",
