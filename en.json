@@ -226,7 +226,7 @@
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.deployOrganisation.notUnlockedKey": "The private key is not unlocked",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.description": "Describe the goods / services that you would like to exchange for Circles Points",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.maximumChars": "The maximum amount of characters allowed is 250.",
-    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.placeholder": "Shop Description",
+    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.placeholder": "Description",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.submitButtonText": "Save",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.title": "Shop Description",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.description": "Type your shop name",
