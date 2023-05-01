@@ -64,7 +64,7 @@
     "dapps.o-banking.atoms.transferSummary.amount": "Jumlah",
     "dapps.o-banking.atoms.transferSummary.block": "Blok",
     "dapps.o-banking.atoms.transferSummary.paymentPath": "Jalur Pembayaran",
-    "dapps.o-banking.atoms.transferSummary.recipientAddress": "Alamat Akun Penerima",
+    "dapps.o-banking.atoms.transferSummary.recipientAddress": "Alamat akun penerima",
     "dapps.o-banking.atoms.transferSummary.transactionHash": "ID unik (hash) pertukaran",
     "dapps.o-banking.manifest.sendMoney": "Kirim Circles",
     "dapps.o-banking.pages.assets.loadingTokens": "Memuat Token...",
