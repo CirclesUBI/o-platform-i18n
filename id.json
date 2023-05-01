@@ -398,7 +398,7 @@
     "dapps.o-homepage.components.videoHeader.togetherWeBuild": "Bersama-sama kita membangun ekonomi pendapatan dasar universal hari ini",
     "dapps.o-homepage.components.welcomeHeader.subtitle": "dengan universal basic income untuk mendukung pemenuhan kebutuhan harian",
     "dapps.o-homepage.components.welcomeHeader.title": "DUKUNG KOMUNITAS ANDA",
-    "dapps.o-homepage.molecules.scanInvite.heading": "Scan QR Code to obtain Invite",
+    "dapps.o-homepage.molecules.scanInvite.heading": "Scan QR untuk verifikasi undangan",
     "dapps.o-homepage.pages.imprint.imprint": "jejak",
     "dapps.o-homepage.pages.learn.excuse1": "Kami sedang aktif mengerjakan hal ini.",
     "dapps.o-homepage.pages.learn.excuse2": "Semua Data akan diatur ulang saat kami meluncurkan platform ini.",
@@ -1050,5 +1050,6 @@
     "common.shareProfile": "Bagikan Profil",
     "dapps.o-banking.transfer.clickToEnterSafeAddress": "Klik untuk memasukan alamat akun Circles penerima",
     "common.googlemaps.locationService.locationDenied": "Tidak dapat menampilkan lokasi Anda. Izinkan browser Anda untuk mengakses lokasi.",
-    "dapps.o-banking.transfer.clickToSearchProfile": "Klik untuk mencari profil Circles"
+    "dapps.o-banking.transfer.clickToSearchProfile": "Klik untuk mencari profil Circles",
+    "common.close": "Tutup"
 }
