@@ -296,7 +296,7 @@
     "dapps.o-dashboard.pages.invites.invitationNotClaimed": "Undangan belum diklaim",
     "dapps.o-dashboard.pages.invites.invites": "Undangan",
     "dapps.o-dashboard.pages.invites.onlyOnce": "Hanya dapat diklaim satu kali",
-    "dapps.o-dashboard.pages.shareInvitation.shareDescription": "Tunjukkan Kode QR ini atau pilih cara untuk membagikan tautan undangan ke Circles",
+    "dapps.o-dashboard.pages.shareInvitation.shareDescription": "Tunjukkan QR ini atau pilih opsi di bawah untuk mengirim undangan aplikasi Circles",
     "dapps.o-dashboard.pages.shareInvitation.shareRefused": "Anda belum dapat mengundang orang lain. Anda harus diverifikasi terlebih dahulu.<br />Kami sedang mengusahakannya :)",
     "dapps.o-dashboard.pages.shareInvitation.shareTitle": "Bagikan undangan",
     "dapps.o-homepage.atoms.menu.blog": "Blog",
