@@ -512,7 +512,7 @@
     "dapps.o-marketplace.pages.offerDetail.storePickup": "Pengambilan di Toko:",
     "dapps.o-marketplace.pages.scanPurchase.cameraDefault": "Kamera: Menghadap ke Lingkungan sekitar\\(default\\)",
     "dapps.o-marketplace.pages.scanPurchase.cameraUserFacing": "Kamera: Menghadap ke Pengguna",
-    "dapps.o-marketplace.pages.scanPurchase.detectedQrCode": "Kode QR yang Terdeteksi:",
+    "dapps.o-marketplace.pages.scanPurchase.detectedQrCode": "Kode QR terdeteksi: ",
     "dapps.o-marketplace.pages.scanPurchase.invalidOrderCode": "Kode Pesanan tidak valid, silakan coba yang lain.",
     "dapps.o-marketplace.pages.scanPurchase.none": "Tidak ada",
     "dapps.o-marketplace.pages.scanPurchase.purchaseMarkedAsDelivered": "Pembelian ditandai sebagai terkirim",
