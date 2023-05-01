@@ -1074,7 +1074,7 @@
     "dapps.o-marketlisting.pages.marketListingDetail.closes": "Closes",
     "dapps.o-marketlisting.pages.marketListingDetail.opens": "Opens",
     "common.cancel": "Cancel",
-    "dapps.o-banking.processes.transfer.maximumAmount": "Maximum Circles Points to send to {name}:",
+    "dapps.o-banking.processes.transfer.maximumAmount": "The maximum Circles Points you can send to {name}:",
     "shared.molecules.profileSwitcherBar.switchTo": "Switch to",
     "common.banking": "Wallet",
     "common.passport": "Passport",
