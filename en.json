@@ -118,7 +118,7 @@
     "dapps.o-banking.processes.transfer.recipientAddress.submitButtonText": "Check the limit you can send",
     "dapps.o-banking.processes.transfer.strings.currencyCircles": "CRC",
     "dapps.o-banking.processes.transfer.strings.currencyXdai": "xDai",
-    "dapps.o-banking.processes.transfer.strings.labelRecipientAddress": "Select the recipient you want to send Circles to",
+    "dapps.o-banking.processes.transfer.strings.labelRecipientAddress": "Select the recipient you want to send Circles Points to",
     "dapps.o-banking.processes.transfer.strings.messageLabel": "Purpose of transfer",
     "dapps.o-banking.processes.transfer.strings.summaryLabel": "Summary",
     "dapps.o-banking.processes.transfer.strings.tokensLabel": "Enter the amount of Circles you want to send",
