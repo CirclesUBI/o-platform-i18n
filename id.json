@@ -112,7 +112,7 @@
     "dapps.o-banking.processes.transfer.editorContent.success.submitButtonText": "Tutup",
     "dapps.o-banking.processes.transfer.editorContent.success.title": "Terkirim!",
     "dapps.o-banking.processes.transfer.findMaxFlow.entry.message": "Menghitung jumlah kirim maksimum ..",
-    "dapps.o-banking.processes.transfer.findMaxFlow.invoke.error": "Tidak ada alamat penerima pada konteks ini",
+    "dapps.o-banking.processes.transfer.findMaxFlow.invoke.error": "Alamat akun penerima tidak ditemukan",
     "dapps.o-banking.processes.transfer.findTransferPath.entry.message": "Menemukan jalur ke penerima ..",
     "dapps.o-banking.processes.transfer.findTransferPath.invoke": "Menemukan jalur ke penerima ..",
     "dapps.o-banking.processes.transfer.recipientAddress.submitButtonText": "Periksa batas pengiriman",
