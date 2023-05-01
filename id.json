@@ -224,7 +224,7 @@
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.country.title": "Di mana lokasi toko Anda?",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.deployOrganisation.needFullAccountSetup": "You need a fully set-up circles account to create an organisation.",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.deployOrganisation.notUnlockedKey": "The private key is not unlocked",
-    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.description": "Berikan penjelasan singkat tentang apa yang Anda tawarkan",
+    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.description": "Cantumkan barang / jasa yang ingin Anda tukarkan dengan Poin Circles",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.maximumChars": "Maksimum 250 karakter.",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.placeholder": "Description",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.submitButtonText": "Simpan",
