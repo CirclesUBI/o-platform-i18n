@@ -557,7 +557,7 @@
     "dapps.o-marketplace.processes.purchases.editorContent.summary.description": "Please review your order",
     "dapps.o-marketplace.processes.purchases.editorContent.summary.submitButtonText": "Buy now",
     "dapps.o-marketplace.processes.purchases.editorContent.summary.title": "Check out",
-    "dapps.o-marketplace.processes.purchases.pay.message": "Sending Circles ..",
+    "dapps.o-marketplace.processes.purchases.pay.message": "Sending Circles Points ...",
     "dapps.o-marketplace.processes.purchases.pay.paymentOfInvoice": "Payment of invoice ",
     "dapps.o-marketplace.processes.upsertOffer.editorContent.description.description": "Describe your item in detail. Make it sound sexy. Try to make it fit into 500 Characters.",
     "dapps.o-marketplace.processes.upsertOffer.editorContent.description.placeholder": "Item description",
