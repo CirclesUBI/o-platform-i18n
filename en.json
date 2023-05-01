@@ -108,7 +108,7 @@
     "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.submitButtonText": "Next",
     "dapps.o-banking.processes.transfer.editorContent.recipientSafeAddress.title": "Enter the recipients safe address",
     "dapps.o-banking.processes.transfer.editorContent.recipient.submitButtonText": "Enter Name",
-    "dapps.o-banking.processes.transfer.editorContent.recipient.title": "Select the recipient you want to send Circles to",
+    "dapps.o-banking.processes.transfer.editorContent.recipient.title": "Select the recipient you want to send Circles Points to",
     "dapps.o-banking.processes.transfer.editorContent.success.submitButtonText": "Close",
     "dapps.o-banking.processes.transfer.editorContent.success.title": "sent!",
     "dapps.o-banking.processes.transfer.findMaxFlow.entry.message": "Calculating the maximum amount ..",
