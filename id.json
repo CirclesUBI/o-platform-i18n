@@ -557,7 +557,7 @@
     "dapps.o-marketplace.processes.purchases.editorContent.summary.description": "Harap tinjau pesanan Anda",
     "dapps.o-marketplace.processes.purchases.editorContent.summary.submitButtonText": "Beli sekarang",
     "dapps.o-marketplace.processes.purchases.editorContent.summary.title": "Beli",
-    "dapps.o-marketplace.processes.purchases.pay.message": "Mengirim Circles ..",
+    "dapps.o-marketplace.processes.purchases.pay.message": "Mengirim Poin Circles ...",
     "dapps.o-marketplace.processes.purchases.pay.paymentOfInvoice": "Pembayaran faktur",
     "dapps.o-marketplace.processes.upsertOffer.editorContent.description.description": "Jelaskan item Anda secara rinci. Membuatnya terdengar seksi. Cobalah untuk membuatnya masuk ke dalam 500 Karakter.",
     "dapps.o-marketplace.processes.upsertOffer.editorContent.description.placeholder": "Keterangan barang",
@@ -1046,7 +1046,7 @@
     "common.timeCircles": "Circles Individu",
     "dapps.banking.atoms.assetCard.different": "aset",
     "common.share": "Bagikan",
-    "dapps.o-banking.processes.transfer.sendingCircles": "Mengirim Circles...",
+    "dapps.o-banking.processes.transfer.sendingCircles": "Mengirim Poin Circles ...",
     "common.shareProfile": "Bagikan Profil",
     "dapps.o-banking.transfer.clickToEnterSafeAddress": "Pilih profil untuk lanjut",
     "common.googlemaps.locationService.locationDenied": "Tidak dapat menampilkan lokasi Anda. Izinkan browser Anda untuk mengakses lokasi."
