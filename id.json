@@ -226,7 +226,7 @@
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.deployOrganisation.notUnlockedKey": "The private key is not unlocked",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.description": "Cantumkan barang / jasa yang ingin Anda tukarkan dengan Poin Circles",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.maximumChars": "Maksimum 250 karakter.",
-    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.placeholder": "Description",
+    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.placeholder": "Deskripsi",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.submitButtonText": "Simpan",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.description.title": "Deskripsi Toko",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.description": "Masukan nama toko Anda",
