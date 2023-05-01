@@ -510,7 +510,7 @@
     "dapps.o-marketplace.pages.offerDetail.notFound": "Not found",
     "dapps.o-marketplace.pages.offerDetail.soldOut": "Sold Out",
     "dapps.o-marketplace.pages.offerDetail.storePickup": "Store Pick Up at:",
-    "dapps.o-marketplace.pages.scanPurchase.cameraDefault": "Camera: Environment Facing \\(default\\)",
+    "dapps.o-marketplace.pages.scanPurchase.cameraDefault": "Main camera (default)",
     "dapps.o-marketplace.pages.scanPurchase.cameraUserFacing": "Camera: User Facing",
     "dapps.o-marketplace.pages.scanPurchase.detectedQrCode": "Detected QR Code: ",
     "dapps.o-marketplace.pages.scanPurchase.invalidOrderCode": "invalid Order Code, please try a different one.",
