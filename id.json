@@ -1049,5 +1049,5 @@
     "dapps.o-banking.processes.transfer.sendingCircles": "Mengirim Circles...",
     "common.shareProfile": "Bagikan Profil",
     "dapps.o-banking.transfer.clickToEnterSafeAddress": "Pilih profil untuk lanjut",
-    "common.googlemaps.locationService.locationDenied": "Maaf, kami tidak dapat menampilkan lokasi Anda."
+    "common.googlemaps.locationService.locationDenied": "Tidak dapat menampilkan lokasi Anda. Izinkan browser Anda untuk mengakses lokasi."
 }
