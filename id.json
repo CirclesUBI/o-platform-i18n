@@ -678,7 +678,7 @@
     "dapps.o-onboarding.processes.loginWithTorus.loginOptions.email.label": "Masuk lewat Email",
     "dapps.o-onboarding.processes.loginWithTorus.loginOptions.facebook.label": "Masuk lewat Facebook",
     "dapps.o-onboarding.processes.loginWithTorus.loginOptions.github.label": "Masuk dengan Github",
-    "dapps.o-onboarding.processes.loginWithTorus.loginOptions.google.label": "Masuk lewat Google ID",
+    "dapps.o-onboarding.processes.loginWithTorus.loginOptions.google.label": "Masuk lewat Google",
     "dapps.o-onboarding.processes.loginWithTorus.pleaseWaitWeSigningYouIn": "Harap menunggu, kami sedang memasukkan Anda",
     "dapps.o-onboarding.processes.loginWithTorus.showInviteMessage.htmlContext": "\n</b> mengundang Anda ke CirclesLand.<br/><br/>Klik 'Lanjut' untuk Masuk",
     "dapps.o-onboarding.processes.loginWithTorus.showInviteMessage.loginButton": "Masuk",
