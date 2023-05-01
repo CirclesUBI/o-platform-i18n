@@ -1091,5 +1091,5 @@
     "common.share": "Share",
     "dapps.o-banking.transfer.clickToEnterSafeAddress": "Click to enter Circles Safe Address",
     "dapps.o-banking.transfer.clickToSearchProfile": "Click to search for Circles Profile",
-    "dapps.o-banking.processes.transfer.sendingCircles": "Sending Circles..."
+    "dapps.o-banking.processes.transfer.sendingCircles": "Sending Circles Points ..."
 }
