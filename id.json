@@ -60,7 +60,7 @@
     "dapps.common.quickactions.verifyYourself": "Verifikasi Diri",
     "dapps.common.test": "test",
     "dapps.o-banking.atoms.transferConfirmation.paymentPath": "Jalur Pembayaran",
-    "dapps.o-banking.atoms.transferConfirmation.recipientAddress": "Alamat Akun Penerima",
+    "dapps.o-banking.atoms.transferConfirmation.recipientAddress": "Alamat akun penerima",
     "dapps.o-banking.atoms.transferSummary.amount": "Jumlah",
     "dapps.o-banking.atoms.transferSummary.block": "Blok",
     "dapps.o-banking.atoms.transferSummary.paymentPath": "Jalur Pembayaran",
