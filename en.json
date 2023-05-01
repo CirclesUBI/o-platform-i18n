@@ -65,7 +65,7 @@
     "dapps.o-banking.atoms.transferSummary.block": "Block",
     "dapps.o-banking.atoms.transferSummary.paymentPath": "Payment Path",
     "dapps.o-banking.atoms.transferSummary.recipientAddress": "Recipient Address",
-    "dapps.o-banking.atoms.transferSummary.transactionHash": "Exchange Hash",
+    "dapps.o-banking.atoms.transferSummary.transactionHash": "Exchange hash",
     "dapps.o-banking.manifest.sendMoney": "Send Circles",
     "dapps.o-banking.pages.assets.loadingTokens": "Loading Tokens...",
     "dapps.o-banking.pages.crcDetail.individualCircles": "Individual Circles",
