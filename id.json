@@ -115,7 +115,7 @@
     "dapps.o-banking.processes.transfer.findMaxFlow.invoke.error": "Alamat akun penerima tidak ditemukan",
     "dapps.o-banking.processes.transfer.findTransferPath.entry.message": "Menemukan jalur ke penerima ..",
     "dapps.o-banking.processes.transfer.findTransferPath.invoke": "Menemukan jalur ke penerima ..",
-    "dapps.o-banking.processes.transfer.recipientAddress.submitButtonText": "Periksa batas pengiriman",
+    "dapps.o-banking.processes.transfer.recipientAddress.submitButtonText": "Periksa jumlah yang dapat dikirim",
     "dapps.o-banking.processes.transfer.strings.currencyCircles": "CRC",
     "dapps.o-banking.processes.transfer.strings.currencyXdai": "xDai",
     "dapps.o-banking.processes.transfer.strings.labelRecipientAddress": "Pilih penerima dari Poin Circles Anda",
