@@ -115,7 +115,7 @@
     "dapps.o-banking.processes.transfer.findMaxFlow.invoke.error": "Recipient address not found",
     "dapps.o-banking.processes.transfer.findTransferPath.entry.message": "Finding your paths to the receiver ..",
     "dapps.o-banking.processes.transfer.findTransferPath.invoke": "Finding your paths to the receiver ..",
-    "dapps.o-banking.processes.transfer.recipientAddress.submitButtonText": "Check send limit",
+    "dapps.o-banking.processes.transfer.recipientAddress.submitButtonText": "Check the limit you can send",
     "dapps.o-banking.processes.transfer.strings.currencyCircles": "CRC",
     "dapps.o-banking.processes.transfer.strings.currencyXdai": "xDai",
     "dapps.o-banking.processes.transfer.strings.labelRecipientAddress": "Select the recipient you want to send Circles to",
