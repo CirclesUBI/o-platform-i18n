@@ -75,7 +75,7 @@
     "dapps.o-banking.pages.transactionDetail.fullAmountCrc": "Full amount in CRC",
     "dapps.o-banking.pages.transactionDetail.paymentPath": "Payment Path",
     "dapps.o-banking.pages.transactionDetail.to": "to",
-    "dapps.o-banking.pages.transactionDetail.transactionHash": "Exchange Hash",
+    "dapps.o-banking.pages.transactionDetail.transactionHash": "Exchange hash",
     "dapps.o-banking.pages.transactionDetail.ubi": "UBI",
     "dapps.o-banking.processes.setTrust.checkTrustLimit.contextMessage": "'As soon as you trust yourself, you will know how to live.' --Johann Wolfgang von Goethe",
     "dapps.o-banking.processes.setTrust.editorContent.confirm.submitButtonText": "Confirm",
