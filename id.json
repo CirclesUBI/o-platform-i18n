@@ -81,7 +81,7 @@
     "dapps.o-banking.processes.setTrust.editorContent.confirm.submitButtonText": "Konfirmasi",
     "dapps.o-banking.processes.setTrust.editorContent.confirm.title": "Konfirmasi",
     "dapps.o-banking.processes.setTrust.editorContent.limit.submitButtonText": "Kirim",
-    "dapps.o-banking.processes.setTrust.editorContent.limit.title": "Masukkan jumlah Circles yang ingin Anda kirim",
+    "dapps.o-banking.processes.setTrust.editorContent.limit.title": "Masukkan jumlah Poin Circles yang ingin Anda kirim",
     "dapps.o-banking.processes.setTrust.editorContent.message.submitButtonText": "Kirim",
     "dapps.o-banking.processes.setTrust.editorContent.message.title": "Tulis Pesan",
     "dapps.o-banking.processes.setTrust.editorContent.recipient.placeholder": "Pilih",
