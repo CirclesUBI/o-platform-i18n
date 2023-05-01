@@ -1031,7 +1031,7 @@
     "shared.molecules.profileSwitcherBar.switchTo": "Beralih ke",
     "common.passport": "Profil",
     "common.banking": "Dompet",
-    "dapps.o-banking.processes.transfer.maximumAmount": "Maksimal Poin Circles untuk dikirim ke {name}:",
+    "dapps.o-banking.processes.transfer.maximumAmount": "Maksimal Poin Circles yang dapat Anda kirim ke {name}:",
     "common.googlemaps.locationService.loadingLocation": "Memuat lokasi Anda...",
     "common.login.forgotYourPin": "Lupa PIN?",
     "shared.molecules.lists.eventlist.noEntries": "Tidak ada data",
