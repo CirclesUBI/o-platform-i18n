@@ -1052,5 +1052,6 @@
     "common.googlemaps.locationService.locationDenied": "Tidak dapat menampilkan lokasi Anda. Izinkan browser Anda untuk mengakses lokasi.",
     "dapps.o-banking.transfer.clickToSearchProfile": "Klik untuk mencari profil Circles",
     "common.close": "Tutup",
-    "dapps.common.cannotSendToYourself": "You can't send to yourself"
+    "dapps.common.cannotSendToYourself": "You can't send to yourself",
+    "dapps.o-marketlisting.pages.mystore.error.correctErrorsAbove": "Please correct Errors above before saving your changes."
 }
