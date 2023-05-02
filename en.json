@@ -1092,5 +1092,6 @@
     "dapps.o-banking.transfer.clickToEnterSafeAddress": "Click to enter recipient's Circles safe address",
     "dapps.o-banking.transfer.clickToSearchProfile": "Click to search for Circles profile",
     "dapps.o-banking.processes.transfer.sendingCircles": "Sending Circles Points ...",
-    "dapps.o-marketlisting.pages.mystore.error.correctErrorsAbove": "Please correct Errors above before saving your changes."
+    "dapps.o-marketlisting.pages.mystore.error.correctErrorsAbove": "Please correct Errors above before saving your changes.",
+    "dapps.o-marketlisting.pages.mystore.error.nameMaxLength": "Please use 50 Characters or less."
 }
