@@ -1057,5 +1057,6 @@
     "dapps.o-marketlisting.pages.mystore.error.nameMaxLength": "Please use 50 Characters or less",
     "dapps.o-marketlisting.pages.mystore.error.descriptionMaxLength": "Please use 250 Characters or less.",
     "dapps.o-marketlisting.pages.mystore.error.nameRequired": "Please enter a name.",
-    "dapps.o-marketlisting.pages.mystore.error.descriptionRequired": "Please enter a description."
+    "dapps.o-marketlisting.pages.mystore.error.descriptionRequired": "Please enter a description.",
+    "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.favorites": "Favorites"
 }
