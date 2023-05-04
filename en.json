@@ -1110,5 +1110,6 @@
     "dapps.o-marketlisting.pages.marketlisting.category.PerbaikanKonstruksi": "Repair / Construction",
     "dapps.o-marketlisting.pages.marketlisting.category.SalonTukangCukur": "Salon / Barber",
     "dapps.o-marketlisting.pages.marketlisting.category.PenjahitLaundry": "Tailor / Laundry",
-    "dapps.o-marketlisting.pages.marketlisting.category.PendidikanLes": "Education / Lessons"
+    "dapps.o-marketlisting.pages.marketlisting.category.PendidikanLes": "Education / Lessons",
+    "dapps.o-homepage.components.survey.gender.male": "Male"
 }
