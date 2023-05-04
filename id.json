@@ -1060,5 +1060,7 @@
     "dapps.o-marketlisting.pages.mystore.error.descriptionRequired": "Please enter a description.",
     "dapps.o-marketlisting.molecules.marketlistingframe.sortoptions.favorites": "Favorites",
     "dapps.o-marketlisting.pages.marketlisting.category.MakananMinuman": "Makanan / Minuman",
-    "dapps.o-marketlisting.pages.marketlisting.category.KebunPertanian": "Kebun / Pertanian"
+    "dapps.o-marketlisting.pages.marketlisting.category.KebunPertanian": "Kebun / Pertanian",
+    "dapps.o-marketlisting.pages.marketlisting.category.HasilLaut": "Hasil Laut",
+    "dapps.o-marketlisting.pages.marketlisting.category.AlatPerangkat": "Alat / Perangkat"
 }
