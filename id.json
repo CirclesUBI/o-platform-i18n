@@ -1070,5 +1070,8 @@
     "dapps.o-marketlisting.pages.marketlisting.category.PerbaikanKonstruksi": "Perbaikan / Konstruksi",
     "dapps.o-marketlisting.pages.marketlisting.category.PenjahitLaundry": "Penjahit / Laundry",
     "dapps.o-marketlisting.pages.marketlisting.category.SalonTukangCukur": "Salon / Tukang Cukur",
-    "dapps.o-marketlisting.pages.marketlisting.category.PendidikanLes": "Pendidikan / Les"
+    "dapps.o-marketlisting.pages.marketlisting.category.PendidikanLes": "Pendidikan / Les",
+    "dapps.o-homepage.components.survey.gender.male": "Male",
+    "dapps.o-homepage.components.survey.gender.female": "Female",
+    "dapps.o-homepage.components.survey.gender.noSay": "I prefer not to say"
 }
