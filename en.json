@@ -1111,5 +1111,7 @@
     "dapps.o-marketlisting.pages.marketlisting.category.SalonTukangCukur": "Salon / Barber",
     "dapps.o-marketlisting.pages.marketlisting.category.PenjahitLaundry": "Tailor / Laundry",
     "dapps.o-marketlisting.pages.marketlisting.category.PendidikanLes": "Education / Lessons",
-    "dapps.o-homepage.components.survey.gender.male": "Male"
+    "dapps.o-homepage.components.survey.gender.male": "Male",
+    "dapps.o-homepage.components.survey.gender.female": "Female",
+    "dapps.o-homepage.components.survey.gender.noSay": "I prefer not to say"
 }
