@@ -1074,5 +1074,6 @@
     "dapps.o-homepage.components.survey.gender.male": "Laki-laki",
     "dapps.o-homepage.components.survey.gender.female": "Perempuan",
     "dapps.o-homepage.components.survey.gender.noSay": "Tidak ingin menjawab",
-    "dapps.o-marketlisting.pages.marketlisting.category.TokoKelontong": "Toko Kelontong"
+    "dapps.o-marketlisting.pages.marketlisting.category.TokoKelontong": "Toko Kelontong",
+    "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.maximumChars": "maximum Characters"
 }
