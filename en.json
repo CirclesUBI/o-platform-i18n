@@ -1116,5 +1116,6 @@
     "dapps.o-homepage.components.survey.gender.noSay": "I prefer not to say",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.maximumChars": "maximum Characters",
     "dapps.o-passport.header.whereDoYouLive": "Where do you live?",
-    "dapps.o-marketlisting.molecules.marketlistingframe.search": "Search"
+    "dapps.o-marketlisting.molecules.marketlistingframe.search": "Search",
+    "dapps.o-marketlisting.pages.mystore.error.categoryRequired": "Please select a Category"
 }
