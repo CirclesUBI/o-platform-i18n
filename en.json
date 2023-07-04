@@ -1129,5 +1129,6 @@
     "dapps.o-marketlisting.pages.marketListingDetail.shareMarket": "Hey, i'd like to show you this cool market. Check it out:",
     "dapps.o-marketlisting.stores.marketStore.couldntGetLocation": "We couldn't get your Location.",
     "dapps.o-marketlisting.stores.marketStore.couldntGetLocationDetails": "Sorting by 'Nearest' will only work if you grant the browser access to your location.",
-    "common.closed": "Closed"
+    "common.closed": "Closed",
+    "dapps.o-marketlisting.molecules.categoryfilter.addFilter": "add Filter"
 }
