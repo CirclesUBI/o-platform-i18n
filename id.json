@@ -1081,5 +1081,6 @@
     "dapps.o-marketlisting.pages.mystore.error.validPhoneNumber": "Please enter a valid phone number",
     "dapps.o-passport.pages.upsertOrganization.enableDisable": "Enable or disable your Shop",
     "dapps.o-passport.pages.upsertOrganization.enableShop": "Enable Shop",
-    "dapps.o-passport.pages.upsertOrganization.disableShop": "Disable Shop"
+    "dapps.o-passport.pages.upsertOrganization.disableShop": "Disable Shop",
+    "dapps.o-passport.pages.home.shopEnabled": "Shop enabled"
 }
