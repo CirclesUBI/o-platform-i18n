@@ -1127,5 +1127,6 @@
     "dapps.common.removePicture": "Remove Picture",
     "dapps.common.submit": "Submit",
     "dapps.common.uploadAFile": "Upload a file",
-    "dapps.common.orDragDrop": "or drag and drop"
+    "dapps.common.orDragDrop": "or drag and drop",
+    "dapps.o-marketlisting.pages.marketListingDetail.shareMarket": "Hey, i'd like to show you this cool market. Check it out:"
 }
