@@ -910,7 +910,7 @@
     "shared.atoms.facetec.enrollmentProcess.sessionWasNotCompleted": "Sesi tidak berhasil diselesaikan, dibatalkan. Status Sesi:",
     "shared.atoms.facetec.enrollmentProcess.unexpectedApiResponse": "Respons API tak terduga, dibatalkan.                 ",
     "shared.currency.errors.argumentMissing": "argumen hilang: jumlah",
-    "shared.functions.generateNavManifest.back": "balik",
+    "shared.functions.generateNavManifest.back": "kembali",
     "shared.functions.generateNavManifest.skip": "lewati",
     "shared.molecules.dappFrame.errors.couldNotFindParams": "Tidak dapat menemukan rute untuk params: \\n{params}",
     "shared.molecules.dappFrame.errors.couldNotFindRoot": "Tidak dapat menemukan akar permasalahannya. Item yang tertumpuk adalah: {item}",
