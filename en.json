@@ -1126,5 +1126,6 @@
     "dapps.o-passport.pages.home.shopDisabled": "Shop disabled",
     "dapps.common.removePicture": "Remove Picture",
     "dapps.common.submit": "Submit",
-    "dapps.common.uploadAFile": "Upload a file"
+    "dapps.common.uploadAFile": "Upload a file",
+    "dapps.common.orDragDrop": "or drag and drop"
 }
