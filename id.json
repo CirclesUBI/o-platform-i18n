@@ -1083,5 +1083,6 @@
     "dapps.o-passport.pages.upsertOrganization.enableShop": "Enable Shop",
     "dapps.o-passport.pages.upsertOrganization.disableShop": "Disable Shop",
     "dapps.o-passport.pages.home.shopEnabled": "Shop enabled",
-    "dapps.o-passport.pages.home.shopDisabled": "Shop disabled"
+    "dapps.o-passport.pages.home.shopDisabled": "Shop disabled",
+    "dapps.o-marketlisting.pages.marketListingDetail.shareMarket": "Hi! Lihat toko menarik di Pasar Circles ini."
 }
