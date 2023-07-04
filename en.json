@@ -1118,5 +1118,6 @@
     "dapps.o-passport.header.whereDoYouLive": "Where do you live?",
     "dapps.o-marketlisting.molecules.marketlistingframe.search": "Search",
     "dapps.o-marketlisting.pages.mystore.error.categoryRequired": "Please select a Category",
-    "dapps.o-marketlisting.pages.mystore.error.validPhoneNumber": "Please enter a valid phone number"
+    "dapps.o-marketlisting.pages.mystore.error.validPhoneNumber": "Please enter a valid phone number",
+    "dapps.o-passport.pages.upsertOrganization.enableDisable": "Enable or disable your Shop"
 }
