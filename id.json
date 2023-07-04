@@ -1075,7 +1075,7 @@
     "dapps.o-marketlisting.pages.marketlisting.category.TokoKelontong": "Toko Kelontong",
     "dapps.o-coop.processes.createOrganisations.createOrganisationContext.name.maximumChars": "maximum Characters",
     "dapps.o-marketlisting.molecules.marketlistingframe.search": "Cari",
-    "dapps.o-marketlisting.pages.mystore.error.categoryRequired": "Please select a Category",
+    "dapps.o-marketlisting.pages.mystore.error.categoryRequired": "Silakan pilih satu kategori",
     "dapps.o-marketlisting.pages.mystore.error.validPhoneNumber": "Please enter a valid phone number",
     "dapps.o-passport.pages.upsertOrganization.enableDisable": "Enable or disable your Shop",
     "dapps.o-passport.pages.upsertOrganization.enableShop": "Enable Shop",
