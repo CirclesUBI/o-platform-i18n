@@ -1082,5 +1082,6 @@
     "dapps.o-passport.pages.upsertOrganization.enableDisable": "Enable or disable your Shop",
     "dapps.o-passport.pages.upsertOrganization.enableShop": "Enable Shop",
     "dapps.o-passport.pages.upsertOrganization.disableShop": "Disable Shop",
-    "dapps.o-passport.pages.home.shopEnabled": "Shop enabled"
+    "dapps.o-passport.pages.home.shopEnabled": "Shop enabled",
+    "dapps.o-passport.pages.home.shopDisabled": "Shop disabled"
 }
