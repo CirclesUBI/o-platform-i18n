@@ -1051,7 +1051,7 @@
     "common.googlemaps.locationService.locationDenied": "Tidak dapat menampilkan lokasi Anda. Izinkan browser Anda untuk mengakses lokasi.",
     "dapps.o-banking.transfer.clickToSearchProfile": "Klik untuk mencari profil Circles",
     "dapps.common.cannotSendToYourself": "Tidak dapat mengirim Poin Circles ke diri sendiri",
-    "dapps.o-marketlisting.pages.mystore.error.correctErrorsAbove": "Please correct Errors above before saving your changes.",
+    "dapps.o-marketlisting.pages.mystore.error.correctErrorsAbove": "Perbaiki error sebelum menyimpan perubahan.",
     "dapps.o-marketlisting.pages.mystore.error.nameMaxLength": "Maksimal 50 karakter.",
     "dapps.o-marketlisting.pages.mystore.error.descriptionMaxLength": "Maksimal 250 karakter.",
     "dapps.o-marketlisting.pages.mystore.error.nameRequired": "Please enter a name.",
