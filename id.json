@@ -1089,5 +1089,6 @@
     "dapps.o-marketlisting.molecules.categoryfilter.addFilter": "Pilih kategori",
     "common.characters": "karakter.",
     "dapps.common.orDragDrop": "atau drag dan drop",
-    "dapps.common.uploadAFile": "Unggah"
+    "dapps.common.uploadAFile": "Unggah",
+    "dapps.common.removePicture": "Ubah Foto"
 }
