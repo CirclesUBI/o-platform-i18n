@@ -1090,5 +1090,6 @@
     "common.characters": "karakter.",
     "dapps.common.orDragDrop": "atau drag dan drop",
     "dapps.common.uploadAFile": "Unggah",
-    "dapps.common.removePicture": "Ubah Foto"
+    "dapps.common.removePicture": "Ubah Foto",
+    "dapps.common.submit": "Simpan"
 }
