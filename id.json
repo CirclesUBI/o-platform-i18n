@@ -1083,7 +1083,7 @@
     "dapps.o-passport.pages.home.shopEnabled": "Shop enabled",
     "dapps.o-passport.pages.home.shopDisabled": "Shop disabled",
     "dapps.o-marketlisting.pages.marketListingDetail.shareMarket": "Hi! Lihat toko menarik di Pasar Circles ini.",
-    "dapps.o-marketlisting.stores.marketStore.couldntGetLocation": "Kami tidak dapat menemukan lokasi Anda.",
+    "dapps.o-marketlisting.stores.marketStore.couldntGetLocation": "Tidak dapat menemukan lokasi Anda.",
     "dapps.o-marketlisting.stores.marketStore.couldntGetLocationDetails": "Mengurutkan toko dari yang ‘terdekat’ hanya bisa dilakukan jika Anda memberikan izin untuk mengakses lokasi.",
     "common.closed": "Tutup",
     "dapps.o-marketlisting.molecules.categoryfilter.addFilter": "Pilih kategori",
