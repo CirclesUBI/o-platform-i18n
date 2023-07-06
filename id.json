@@ -1048,7 +1048,7 @@
     "dapps.o-banking.processes.transfer.sendingCircles": "Mengirim Poin Circles ...",
     "common.shareProfile": "Bagikan Profil",
     "dapps.o-banking.transfer.clickToEnterSafeAddress": "Klik untuk memasukan alamat akun Circles",
-    "common.googlemaps.locationService.locationDenied": "Tidak dapat menampilkan lokasi Anda. Izinkan browser Anda untuk mengakses lokasi.",
+    "common.googlemaps.locationService.locationDenied": "Tidak dapat menampilkan lokasi Anda. Aktifkan izin akses lokasi di browser ini.",
     "dapps.o-banking.transfer.clickToSearchProfile": "Klik untuk mencari profil Circles",
     "dapps.common.cannotSendToYourself": "Tidak dapat mengirim Poin Circles ke diri sendiri",
     "dapps.o-marketlisting.pages.mystore.error.correctErrorsAbove": "Perbaiki error sebelum menyimpan perubahan.",
