@@ -1087,5 +1087,6 @@
     "dapps.o-marketlisting.stores.marketStore.couldntGetLocationDetails": "Mengurutkan toko dari yang ‘terdekat’ hanya bisa dilakukan jika Anda memberikan izin untuk mengakses lokasi.",
     "common.closed": "Tutup",
     "dapps.o-marketlisting.molecules.categoryfilter.addFilter": "Pilih kategori",
-    "common.characters": "karakter."
+    "common.characters": "karakter.",
+    "dapps.common.orDragDrop": "atau drag dan drop"
 }
