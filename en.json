@@ -737,7 +737,7 @@
     "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.error.privateKeyNotUnlocked": "The private key is not unlocked",
     "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.errorRequestingChallenge.error": "An error occurred while requesting an auth-challenge.",
     "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.errorRequestingChallenge.submitButtonText": "Try again",
-    "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.message": "Starting the session ..",
+    "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.message": "Starting the session . . .",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.acquireSession.errors.contextsPropertyNotSet": "The context's 'eoaAddress' property is not set but required by this step",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.acquireSession.errors.couldNotGetSession": "Couldn't get a session using a signed challenge.",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.acquireSession.errors.privateKeyNotUnlocked": "The private key is not unlocked",
