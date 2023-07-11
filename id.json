@@ -737,7 +737,7 @@
     "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.error.privateKeyNotUnlocked": "Kunci pribadi tidak dibuka",
     "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.errorRequestingChallenge.error": "Terjadi kesalahan saat memproses autentikasi.",
     "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.errorRequestingChallenge.submitButtonText": "Coba lagi",
-    "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.message": "Memulai sesi..",
+    "dapps.o-passport.processes.identify.acquireSession.acquireSession2.acquireSession.message": "Memulai sesi . . .",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.acquireSession.errors.contextsPropertyNotSet": "Properti 'eoaAddress' konteks tidak disetel tetapi tetap diperlukan dalam langkah ini",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.acquireSession.errors.couldNotGetSession": "Tidak bisa mendapatkan sesi menggunakan tantangan yang ditandatangani.",
     "dapps.o-passport.processes.identify.acquireSession.authenticate.authenticate2.acquireSession.errors.privateKeyNotUnlocked": "Kunci pribadi tidak dibuka",
