@@ -1091,5 +1091,6 @@
     "dapps.common.orDragDrop": "atau drag dan drop",
     "dapps.common.uploadAFile": "Unggah",
     "dapps.common.removePicture": "Ubah Foto",
-    "dapps.common.submit": "Simpan"
+    "dapps.common.submit": "Simpan",
+    "dapps.o-passport.processes.identify.retrievingYourFirstUBI": "Mempersiapkan UBI pertama Anda . . ."
 }
