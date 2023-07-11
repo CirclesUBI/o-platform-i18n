@@ -1131,6 +1131,5 @@
     "dapps.o-marketlisting.stores.marketStore.couldntGetLocationDetails": "Sorting by 'Nearest' will only work if you grant the browser access to your location.",
     "common.closed": "Closed",
     "dapps.o-marketlisting.molecules.categoryfilter.addFilter": "add Filter",
-    "common.characters": "Characters.",
-    "dapps.common.startingYourSession": "Starting your session . . ."
+    "common.characters": "Characters."
 }
