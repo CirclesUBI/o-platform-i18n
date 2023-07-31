@@ -1132,5 +1132,6 @@
     "common.closed": "Closed",
     "dapps.o-marketlisting.molecules.categoryfilter.addFilter": "add Filter",
     "common.characters": "Characters.",
-    "dapps.o-passport.processes.identify.retrievingYourFirstUBI": "Retrieving your first UBI . . ."
+    "dapps.o-passport.processes.identify.retrievingYourFirstUBI": "Retrieving your first UBI . . .",
+    "dapps.o-marketlisting.pages.marketlisting.category.JasaPenitipanAnak": "Jasa Penitipan Anak"
 }
