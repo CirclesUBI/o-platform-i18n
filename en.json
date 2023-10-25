@@ -372,7 +372,7 @@
     "dapps.o-homepage.components.survey.informedConsent.firstCheckbox": "I agree to participate in this circles research project.",
     "dapps.o-homepage.components.survey.informedConsent.fourthCheckbox": "I understand that Circles Points cannot be exchanged for Rupiah or any other currency.",
     "dapps.o-homepage.components.survey.informedConsent.info": "You haven't ticked all the boxes so you cannot use the Circles app",
-    "dapps.o-homepage.components.survey.informedConsent.secondCheckbox": "I agree to participate in this Circles research project.",
+    "dapps.o-homepage.components.survey.informedConsent.secondCheckbox": "I understand that circles project will be collecting information I provide in this app as a means of better understanding how circles can work in my area.",
     "dapps.o-homepage.components.survey.informedConsent.sixthCheckbox": "I understand that I can only receive Circles Points from someone that is trusted by me or my Circles Friends.",
     "dapps.o-homepage.components.survey.informedConsent.thirdCheckbox": "I understand that when the Circles research project end, I may not be able to use Circles Points that remain in my Circles Wallet.",
     "dapps.o-homepage.components.survey.informedConsent.title.bottom": "If you have any questions, please reach out to a local circles representative.",
