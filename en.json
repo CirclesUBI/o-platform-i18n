@@ -1136,5 +1136,6 @@
     "dapps.o-marketlisting.pages.marketlisting.category.JasaPenitipanAnak": "Daycare",
     "dapps.o-marketlisting.pages.marketlisting.category.JasaPanjatPohon": "Tree Climbing",
     "dapps.o-marketlisting.pages.marketlisting.category.Lainnya": "Others",
-    "dapps.o-homepage.components.survey.informedConsent.seventhCheckbox": "If your shop lists Illegal/unethical items, it may be disabled"
+    "dapps.o-homepage.components.survey.informedConsent.seventhCheckbox": "If your shop lists Illegal/unethical items, it may be disabled",
+    "dapps.o-homepage.components.survey.informedConsent.eighthCheckbox": "If your account is inactive for 3 months or more, it may be deleted"
 }
