@@ -1095,5 +1095,7 @@
     "dapps.o-passport.processes.identify.retrievingYourFirstUBI": "Mempersiapkan UBI pertama Anda . . .",
     "dapps.o-marketlisting.pages.marketlisting.category.JasaPenitipanAnak": "Jasa Penitipan Anak",
     "dapps.o-marketlisting.pages.marketlisting.category.JasaPanjatPohon": "Jasa Panjat Pohon",
-    "dapps.o-marketlisting.pages.marketlisting.category.Lainnya": "Lainnya"
+    "dapps.o-marketlisting.pages.marketlisting.category.Lainnya": "Lainnya",
+    "dapps.o-homepage.components.survey.informedConsent.seventhCheckbox": "Toko dapat dinonaktifkan jika menawarkan barang & jasa ilegal / tidak etis",
+    "dapps.o-homepage.components.survey.informedConsent.eighthCheckbox": "Akun dapat dihapus jika tidak aktif selaman 3 bulan atau lebih"
 }
